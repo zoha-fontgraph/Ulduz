@@ -1,0 +1,4605 @@
+SplineFontDB: 3.2
+FontName: Ulduz
+FullName: Ulduz
+FamilyName: Ulduz
+Weight: Regular
+Copyright: Copyright (c) 2024, Hoda Asgharzadeh, Amin Abedi
+UComments: "2024-8-21: Created with FontForge (http://fontforge.org)"
+Version: 1.0
+ItalicAngle: 0
+UnderlinePosition: -100
+UnderlineWidth: 50
+Ascent: 800
+Descent: 200
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "Back" 1
+Layer: 1 0 "Fore" 0
+XUID: [1021 363 1930246133 16312]
+StyleMap: 0x0000
+FSType: 0
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1724219227
+ModificationTime: 1725392818
+PfmFamily: 17
+TTFWeight: 400
+TTFWidth: 5
+LineGap: 0
+VLineGap: 90
+OS2TypoAscent: 1000
+OS2TypoAOffset: 0
+OS2TypoDescent: -400
+OS2TypoDOffset: 0
+OS2TypoLinegap: 0
+OS2WinAscent: 1000
+OS2WinAOffset: 0
+OS2WinDescent: 400
+OS2WinDOffset: 0
+HheadAscent: 1000
+HheadAOffset: 0
+HheadDescent: -400
+HheadDOffset: 0
+OS2Vendor: '    '
+Lookup: 4 0 1 "'ccmp' Glyph Composition/Decomposition in Arabic lookup 0" { "'ccmp' Glyph Composition/Decomposition in Arabic lookup 0 subtable"  } ['ccmp' ('DFLT' <'dflt' > 'arab' <'dflt' > ) ]
+Lookup: 1 1 0 "'fina' Terminal Forms in Arabic lookup 3" { "'fina' Terminal Forms in Arabic lookup 3 subtable"  } ['fina' ('arab' <'dflt' > ) ]
+Lookup: 1 1 0 "'medi' Medial Forms in Arabic lookup 2" { "'medi' Medial Forms in Arabic lookup 2 subtable"  } ['medi' ('arab' <'dflt' > ) ]
+Lookup: 1 1 0 "'init' Initial Forms in Arabic lookup 1" { "'init' Initial Forms in Arabic lookup 1 subtable"  } ['init' ('arab' <'dflt' > ) ]
+Lookup: 261 1 0 "bottom_mark_lig" { "bottom_mark_lig-subtable"  } ['mark' ('DFLT' <'dflt' > 'arab' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 261 1 0 "top_mark_lig" { "top_mark_lig-subtable"  } ['mark' ('DFLT' <'dflt' > 'arab' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 260 1 0 "bottom_mark" { "bottom_mark-subtable"  } ['mark' ('DFLT' <'dflt' > 'arab' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 260 1 0 "top_mark" { "top_mark-subtable"  } ['mark' ('DFLT' <'dflt' > 'arab' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 262 1 0 "bottom_mkmk" { "bottom_mkmk-subtable"  } ['mkmk' ('DFLT' <'dflt' > 'arab' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 262 1 0 "top_mkmk" { "top_mkmk-subtable"  } ['mkmk' ('DFLT' <'dflt' > 'arab' <'dflt' > 'latn' <'dflt' > ) ]
+MarkAttachClasses: 1
+DEI: 91125
+LangName: 1033 "" "" "" "" "" "" "" "" "" "Hoda Asgharzadeh(font engeener: Amin Abedi)" "" "" "" "Copyright (c) 2024, Hoda Asgharzadeh, Amin Abedi"
+GaspTable: 1 65535 15 1
+Encoding: UnicodeFull
+Compacted: 1
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -72
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 0 25 9
+BeginPrivate: 0
+EndPrivate
+Grid
+-1000 136 m 0
+ 2000 136 l 1024
+EndSplineSet
+AnchorClass2: "bottom_lig" "bottom_mark_lig-subtable" "top_lig" "top_mark_lig-subtable" "bottom" "bottom_mark-subtable" "top" "top_mark-subtable" "bottom_mark" "bottom_mkmk-subtable" "top_mark" "top_mkmk-subtable"
+BeginChars: 1114112 228
+
+StartChar: space
+Encoding: 32 32 0
+Width: 120
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni0622
+Encoding: 1570 1570 1
+Width: 232
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 114 0 basechar 0
+AnchorPoint: "top" 86 696 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+149 0 m 1
+ 79 0 l 1
+ 80 21 80 42 80 64 c 0
+ 80 194 63 334 31 453 c 1
+ 131 531 l 1
+ 152 429 162 320 162 210 c 0
+ 162 139 158 68 149 0 c 1
+EndSplineSet
+Refer: 192 1619 N 1 0 0 1 86 524 2
+Substitution2: "'fina' Terminal Forms in Arabic lookup 3 subtable" uniFE82
+EndChar
+
+StartChar: uni0627
+Encoding: 1575 1575 2
+Width: 223
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 102 0 basechar 0
+AnchorPoint: "top" 73 697 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+137 0 m 1
+ 68 0 l 1
+ 69 28 70 56 70 84 c 0
+ 70 275 35 449 -36 608 c 1
+ 73 697 l 1
+ 127 546 154 393 154 231 c 0
+ 154 157 148 80 137 0 c 1
+ 137 0 l 1
+EndSplineSet
+Substitution2: "'fina' Terminal Forms in Arabic lookup 3 subtable" uniFE8E
+EndChar
+
+StartChar: uni0628
+Encoding: 1576 1576 3
+Width: 888
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 385 -166 basechar 0
+AnchorPoint: "top" 459 419 basechar 0
+LayerCount: 2
+Fore
+Refer: 86 57344 N 1 0 0 1 296 -166 2
+Refer: 83 1646 N 1 0 0 1 0 0 3
+Substitution2: "'init' Initial Forms in Arabic lookup 1 subtable" uniFE91
+Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFE92
+Substitution2: "'fina' Terminal Forms in Arabic lookup 3 subtable" uniFE90
+EndChar
+
+StartChar: uni0686
+Encoding: 1670 1670 4
+Width: 513
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 215 -206 basechar 0
+AnchorPoint: "top" 257 355 basechar 0
+LayerCount: 2
+Fore
+Refer: 8 1581 N 1 0 0 1 0 0 3
+Refer: 89 57347 N 1 0 0 1 199 -204 2
+Substitution2: "'init' Initial Forms in Arabic lookup 1 subtable" uniFB7C
+Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFB7D
+Substitution2: "'fina' Terminal Forms in Arabic lookup 3 subtable" uniFB7B
+EndChar
+
+StartChar: uni0634
+Encoding: 1588 1588 5
+Width: 1243
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 260 -310 basechar 0
+AnchorPoint: "top" 976 569 basechar 0
+LayerCount: 2
+Fore
+Refer: 128 1587 N 1 0 0 1 0 0 3
+Refer: 88 57346 N 1 0 0 1 847 408 2
+Substitution2: "'init' Initial Forms in Arabic lookup 1 subtable" uniFEB7
+Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFEB8
+Substitution2: "'fina' Terminal Forms in Arabic lookup 3 subtable" uniFEB6
+EndChar
+
+StartChar: uni062F
+Encoding: 1583 1583 6
+Width: 390
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 159 -40 basechar 0
+AnchorPoint: "top" 186 441 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+204 441 m 1
+ 298 324 340 223 340 118 c 0
+ 340 79 334 41 322 1 c 1
+ 271 -26 217 -40 159 -40 c 0
+ 116 -40 70 -32 20 -17 c 1
+ 65 95 l 1
+ 103 85 140 81 176 81 c 0
+ 212 81 246 85 281 95 c 1
+ 273 174 236 241 169 296 c 1
+ 204 441 l 1
+EndSplineSet
+Substitution2: "'fina' Terminal Forms in Arabic lookup 3 subtable" uniFEAA
+EndChar
+
+StartChar: uni0632
+Encoding: 1586 1586 7
+Width: 237
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 68 -158 basechar 0
+AnchorPoint: "top" 107 475 basechar 0
+LayerCount: 2
+Fore
+Refer: 86 57344 N 1 0 0 1 18 397 2
+Refer: 127 1585 N 1 0 0 1 0 0 3
+Substitution2: "'fina' Terminal Forms in Arabic lookup 3 subtable" uniFEB0
+EndChar
+
+StartChar: uni062D
+Encoding: 1581 1581 8
+Width: 513
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 102 -209 basechar 0
+AnchorPoint: "top" 257 355 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+102 -209 m 0
+ 72 -209 50 -176 50 -130 c 0
+ 50 -8 169 136 270 136 c 2
+ 324 136 l 1
+ 297 196 222 258 173 258 c 1
+ 148 355 l 1
+ 306 346 467 165 463 0 c 1
+ 228 0 l 2
+ 158 0 124 -27 124 -82 c 0
+ 124 -112 140 -133 162 -133 c 0
+ 181 -133 203 -117 225 -88 c 1
+ 194 -157 141 -209 102 -209 c 0
+EndSplineSet
+Substitution2: "'init' Initial Forms in Arabic lookup 1 subtable" uniFEA3
+Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFEA4
+Substitution2: "'fina' Terminal Forms in Arabic lookup 3 subtable" uniFEA2
+EndChar
+
+StartChar: uni0635
+Encoding: 1589 1589 9
+Width: 1233
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 260 -316 basechar 0
+AnchorPoint: "top" 845 329 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+364 236 m 0
+ 267 236 131 62 131 -62 c 0
+ 131 -135 184 -180 269 -180 c 0
+ 456 -180 721 36 821 269 c 1
+ 830 216 860 169 904 136 c 1
+ 1042 136 l 1
+ 1000 194 953 221 886 225 c 1
+ 845 329 l 1
+ 1025 318 1181 165 1181 0 c 1
+ 907 0 l 1
+ 859 23 828 53 819 86 c 1
+ 667 -151 438 -316 260 -316 c 0
+ 137 -316 55 -234 55 -110 c 0
+ 55 81 252 312 415 312 c 0
+ 460 312 493 289 493 258 c 0
+ 493 215 442 160 368 124 c 1
+ 395 145 411 171 411 194 c 0
+ 411 219 392 236 364 236 c 0
+EndSplineSet
+Substitution2: "'init' Initial Forms in Arabic lookup 1 subtable" uniFEBB
+Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFEBC
+Substitution2: "'fina' Terminal Forms in Arabic lookup 3 subtable" uniFEBA
+EndChar
+
+StartChar: uni0637
+Encoding: 1591 1591 10
+Width: 615
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 308 0 basechar 0
+AnchorPoint: "top" 349 330 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+565 0 m 9
+ 64 0 l 1
+ 115 135 l 1
+ 151 135 l 1
+ 139 269 107 401 50 527 c 1
+ 159 617 l 1
+ 193 521 217 426 229 330 c 1
+ 358 322 565 212 565 0 c 9
+240 136 m 1
+ 425 136 l 1
+ 389 186 347 221 270 226 c 1
+ 229 323 l 1
+ 237 261 241 199 240 136 c 1
+EndSplineSet
+Substitution2: "'init' Initial Forms in Arabic lookup 1 subtable" uniFEC3
+Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFEC4
+Substitution2: "'fina' Terminal Forms in Arabic lookup 3 subtable" uniFEC2
+EndChar
+
+StartChar: uni0639
+Encoding: 1593 1593 11
+Width: 548
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 101 -209 basechar 0
+AnchorPoint: "top" 435 370 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+101 -209 m 0
+ 71 -209 50 -177 50 -127 c 0
+ 50 -34 124 83 210 122 c 1
+ 217 240 335 370 435 370 c 0
+ 474 370 498 350 498 318 c 0
+ 498 277 460 219 404 174 c 1
+ 423 198 433 220 433 238 c 0
+ 433 264 413 281 382 281 c 0
+ 329 281 289 232 289 168 c 0
+ 289 157 290 146 294 136 c 9
+ 380 136 l 1
+ 389 122 416 76 416 0 c 1
+ 227 0 l 2
+ 157 0 122 -27 122 -78 c 0
+ 122 -112 138 -133 160 -133 c 0
+ 179 -133 201 -117 223 -88 c 1
+ 192 -158 140 -209 101 -209 c 0
+EndSplineSet
+Substitution2: "'init' Initial Forms in Arabic lookup 1 subtable" uniFECB
+Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFECC
+Substitution2: "'fina' Terminal Forms in Arabic lookup 3 subtable" uniFECA
+EndChar
+
+StartChar: uni0638
+Encoding: 1592 1592 12
+Width: 615
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 308 0 basechar 0
+AnchorPoint: "top" 351 479 basechar 0
+LayerCount: 2
+Fore
+Refer: 10 1591 N 1 0 0 1 0 0 3
+Refer: 86 57344 N 1 0 0 1 262 401 2
+Substitution2: "'init' Initial Forms in Arabic lookup 1 subtable" uniFEC7
+Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFEC8
+Substitution2: "'fina' Terminal Forms in Arabic lookup 3 subtable" uniFEC6
+EndChar
+
+StartChar: uni063A
+Encoding: 1594 1594 13
+Width: 548
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 101 -209 basechar 0
+AnchorPoint: "top" 363 478 basechar 0
+LayerCount: 2
+Fore
+Refer: 11 1593 N 1 0 0 1 0 0 3
+Refer: 86 57344 N 1 0 0 1 274 400 2
+Substitution2: "'init' Initial Forms in Arabic lookup 1 subtable" uniFECF
+Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFED0
+Substitution2: "'fina' Terminal Forms in Arabic lookup 3 subtable" uniFECE
+EndChar
+
+StartChar: uni0645
+Encoding: 1605 1605 14
+Width: 433
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 341 -244 basechar 0
+AnchorPoint: "top" 201 422 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+280 118 m 0
+ 296 118 318 176 318 216 c 0
+ 318 249 303 288 274 331 c 1
+ 341 422 l 1
+ 370 367 383 311 383 241 c 0
+ 383 132 351 52 289 4 c 1
+ 250 25 218 56 203 87 c 1
+ 197 79 191 71 180 56 c 1
+ 180 -24 207 -140 207 -244 c 0
+ 207 -295 201 -373 190 -450 c 1
+ 121 -450 l 1
+ 123 -405 123 -389 123 -368 c 0
+ 123 -208 99 -62 50 75 c 1
+ 145 133 219 214 263 309 c 1
+ 290 266 l 1
+ 252 217 242 201 242 184 c 0
+ 242 159 266 118 280 118 c 0
+EndSplineSet
+Substitution2: "'init' Initial Forms in Arabic lookup 1 subtable" uniFEE3
+Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFEE4
+Substitution2: "'fina' Terminal Forms in Arabic lookup 3 subtable" uniFEE2
+EndChar
+
+StartChar: uni0646
+Encoding: 1606 1606 15
+Width: 830
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 259 -317 basechar 0
+AnchorPoint: "top" 415 390 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+50 -113 m 0
+ 50 69 259 313 415 313 c 0
+ 460 313 493 290 493 259 c 0
+ 493 217 441 161 368 125 c 1
+ 397 148 413 172 413 193 c 0
+ 413 218 391 236 360 236 c 0
+ 266 236 132 60 132 -63 c 0
+ 132 -136 180 -177 266 -177 c 0
+ 393 -177 566 -79 691 64 c 1
+ 691 165 686 234 672 314 c 1
+ 765 390 l 1
+ 773 340 780 238 780 179 c 0
+ 780 84 773 30 758 1 c 0
+ 681 -149 417 -317 259 -317 c 0
+ 140 -317 50 -230 50 -113 c 0
+EndSplineSet
+Refer: 86 57344 N 1 0 0 1 326 -3 2
+Substitution2: "'init' Initial Forms in Arabic lookup 1 subtable" uniFEE7
+Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFEE8
+Substitution2: "'fina' Terminal Forms in Arabic lookup 3 subtable" uniFEE6
+EndChar
+
+StartChar: uni0648
+Encoding: 1608 1608 16
+Width: 311
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 147 -157 basechar 0
+AnchorPoint: "top" 152 406 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+152 406 m 1
+ 249 316 261 169 261 133 c 0
+ 261 26 197 -82 88 -157 c 1
+ 33 -55 l 1
+ 125 -5 187 34 187 113 c 0
+ 187 177 147 264 103 294 c 1
+ 83 281 70 259 70 237 c 0
+ 70 218 80 206 94 206 c 0
+ 103 206 123 206 123 220 c 0
+ 123 221 125 223 130 228 c 1
+ 164 151 l 1
+ 149 136 127 120 103 120 c 0
+ 73 120 50 158 50 211 c 0
+ 50 270 84 335 152 406 c 1
+EndSplineSet
+Substitution2: "'fina' Terminal Forms in Arabic lookup 3 subtable" uniFEEE
+EndChar
+
+StartChar: uni0649
+Encoding: 1609 1609 17
+Width: 693
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 278 -139 basechar 0
+AnchorPoint: "top" 346 425 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+238 335 m 0
+ 173 335 128 269 128 175 c 0
+ 128 62 206 -24 308 -24 c 0
+ 350 -24 391 -8 425 21 c 1
+ 376 45 354 76 354 124 c 0
+ 354 238 478 376 582 376 c 0
+ 620 376 643 356 643 325 c 0
+ 643 283 606 225 550 180 c 1
+ 569 204 579 226 579 244 c 0
+ 579 269 559 286 529 286 c 0
+ 475 286 435 238 435 172 c 0
+ 435 160 437 150 441 140 c 1
+ 458 131 477 126 497 126 c 0
+ 516 126 538 131 563 140 c 1
+ 561 6 l 1
+ 484 -85 379 -139 278 -139 c 0
+ 140 -139 50 -43 50 106 c 0
+ 50 274 160 425 282 425 c 0
+ 321 425 345 405 345 374 c 0
+ 345 332 307 273 252 229 c 1
+ 272 255 283 277 283 296 c 0
+ 283 320 265 335 238 335 c 0
+EndSplineSet
+Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFBFF
+Substitution2: "'fina' Terminal Forms in Arabic lookup 3 subtable" uniFBFD
+EndChar
+
+StartChar: uni0647
+Encoding: 1607 1607 18
+Width: 393
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 143 -5 basechar 0
+AnchorPoint: "top" 196 409 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+143 -5 m 0
+ 89 -5 50 42 50 109 c 0
+ 50 207 123 318 246 409 c 1
+ 294 352 336 248 343 169 c 1
+ 282 67 199 -5 143 -5 c 0
+111 147 m 0
+ 111 119 129 99 154 99 c 0
+ 183 99 220 125 270 180 c 1
+ 241 231 216 278 202 278 c 1
+ 170 278 111 193 111 147 c 0
+EndSplineSet
+Substitution2: "'init' Initial Forms in Arabic lookup 1 subtable" uniFEEB
+Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFEEC
+Substitution2: "'fina' Terminal Forms in Arabic lookup 3 subtable" uniFEEA
+EndChar
+
+StartChar: uni0644
+Encoding: 1604 1604 19
+Width: 830
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 261 -318 basechar 0
+AnchorPoint: "top" 415 699 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+694 699 m 1
+ 754 531 780 354 780 120 c 0
+ 780 71 780 53 780 27 c 1
+ 612 -182 407 -318 261 -318 c 0
+ 142 -318 50 -228 50 -112 c 0
+ 50 70 259 313 416 313 c 0
+ 461 313 493 291 493 260 c 0
+ 493 218 440 161 368 126 c 1
+ 397 149 413 173 413 194 c 0
+ 413 219 391 236 361 236 c 0
+ 267 236 132 61 132 -62 c 0
+ 132 -135 181 -176 266 -176 c 0
+ 394 -176 566 -78 691 65 c 1
+ 691 279 659 443 584 609 c 1
+ 694 699 l 1
+EndSplineSet
+Substitution2: "'init' Initial Forms in Arabic lookup 1 subtable" uniFEDF
+Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFEE0
+Substitution2: "'fina' Terminal Forms in Arabic lookup 3 subtable" uniFEDE
+EndChar
+
+StartChar: uni0642
+Encoding: 1602 1602 20
+Width: 899
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 260 -314 basechar 0
+AnchorPoint: "top" 668 590 basechar 0
+LayerCount: 2
+Fore
+Refer: 133 1647 N 1 0 0 1 0 0 3
+Refer: 87 57345 N 1 0 0 1 540 512 2
+Substitution2: "'init' Initial Forms in Arabic lookup 1 subtable" uniFED7
+Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFED8
+Substitution2: "'fina' Terminal Forms in Arabic lookup 3 subtable" uniFED6
+EndChar
+
+StartChar: uni06A9
+Encoding: 1705 1705 21
+Width: 935
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 291 -66 basechar 0
+AnchorPoint: "top" 844 770 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+556 573 m 1
+ 729 762 913 888 1133 968 c 1
+ 1135 827 l 1
+ 943 773 766 671 600 519 c 1
+ 556 573 l 1
+129 150 m 0
+ 129 86 203 53 345 53 c 0
+ 484 53 655 88 766 140 c 1
+ 750 233 691 315 605 359 c 1
+ 605 513 l 1
+ 749 393 812 281 812 146 c 0
+ 812 133 811 120 810 107 c 1
+ 713 -5 529 -66 291 -66 c 0
+ 128 -66 50 -15 50 92 c 0
+ 50 213 171 353 276 353 c 0
+ 314 353 338 333 338 301 c 0
+ 338 259 300 200 245 156 c 1
+ 264 180 274 202 274 220 c 0
+ 274 246 254 263 224 263 c 0
+ 170 263 129 214 129 150 c 0
+EndSplineSet
+Substitution2: "'init' Initial Forms in Arabic lookup 1 subtable" uniFB90
+Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFB91
+Substitution2: "'fina' Terminal Forms in Arabic lookup 3 subtable" uniFB8F
+EndChar
+
+StartChar: uni06AF
+Encoding: 1711 1711 22
+Width: 935
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 291 -66 basechar 0
+AnchorPoint: "top" 908 924 basechar 0
+LayerCount: 2
+Fore
+Refer: 115 57353 N 1 0 0 1 633 764 2
+Refer: 21 1705 N 1 0 0 1 0 0 3
+Substitution2: "'init' Initial Forms in Arabic lookup 1 subtable" uniFB94
+Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFB95
+Substitution2: "'fina' Terminal Forms in Arabic lookup 3 subtable" uniFB93
+EndChar
+
+StartChar: uni0641
+Encoding: 1601 1601 23
+Width: 893
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 323 -47 basechar 0
+AnchorPoint: "top" 645 592 basechar 0
+LayerCount: 2
+Fore
+Refer: 130 1697 N 1 0 0 1 0 0 3
+Refer: 86 57344 N 1 0 0 1 556 514 2
+Substitution2: "'init' Initial Forms in Arabic lookup 1 subtable" uniFED3
+Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFED4
+Substitution2: "'fina' Terminal Forms in Arabic lookup 3 subtable" uniFED2
+EndChar
+
+StartChar: parenleft
+Encoding: 40 40 24
+Width: 421
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+371 -45 m 1
+ 326 -85 l 1
+ -65 97 -19 322 326 577 c 1
+ 369 534 l 1
+ 122 329 106 135 371 -45 c 1
+128 312 m 1
+ 46 322 108 156 138 112 c 1
+ 113 168 100 228 128 312 c 1
+EndSplineSet
+EndChar
+
+StartChar: parenright
+Encoding: 41 41 25
+Width: 421
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+50 -45 m 1
+ 315 135 299 329 52 534 c 1
+ 95 577 l 1
+ 440 322 486 97 95 -85 c 1
+ 50 -45 l 1
+293 312 m 1
+ 321 228 308 168 283 112 c 1
+ 313 156 375 320 293 312 c 1
+EndSplineSet
+EndChar
+
+StartChar: uni06F0
+Encoding: 1776 1776 26
+Width: 317
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+268 108 m 0
+ 268 45 212 0 163 0 c 0
+ 149 0 133 3 115 11 c 1
+ 118 11 120 10 123 10 c 0
+ 145 10 203 34 203 94 c 0
+ 203 134 177 176 136 176 c 0
+ 110 176 86 161 86 135 c 0
+ 86 120 96 106 111 106 c 0
+ 118 106 125 109 134 115 c 1
+ 160 53 l 2
+ 162 49 134 26 110 26 c 0
+ 76 26 50 64 50 117 c 0
+ 50 187 103 221 156 221 c 0
+ 214 221 268 181 268 108 c 0
+EndSplineSet
+EndChar
+
+StartChar: plus
+Encoding: 43 43 27
+Width: 596
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+50 68 m 1
+ 50 118 l 1
+ 201 110 346 130 483 192 c 1
+ 547 114 l 1
+ 382 55 221 45 50 68 c 1
+355 -124 m 1
+ 305 -124 l 1
+ 313 27 293 172 231 309 c 1
+ 309 373 l 1
+ 368 208 378 47 355 -124 c 1
+EndSplineSet
+EndChar
+
+StartChar: equal
+Encoding: 61 61 28
+Width: 596
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+50 68 m 1
+ 50 118 l 1
+ 201 110 346 130 483 192 c 1
+ 547 114 l 1
+ 382 55 221 45 50 68 c 1
+50 182 m 1
+ 50 231 l 1
+ 201 223 346 243 483 305 c 1
+ 547 227 l 1
+ 382 168 221 159 50 182 c 1
+EndSplineSet
+EndChar
+
+StartChar: multiply
+Encoding: 215 215 29
+Width: 423
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+374 -63 m 1
+ 331 -87 l 1
+ 262 47 172 163 50 251 c 1
+ 86 345 l 1
+ 220 231 309 97 374 -63 c 1
+50 -63 m 1
+ 115 97 204 231 338 345 c 1
+ 374 251 l 1
+ 252 163 162 47 93 -87 c 1
+ 50 -63 l 1
+EndSplineSet
+EndChar
+
+StartChar: divide
+Encoding: 247 247 30
+Width: 596
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+50 68 m 1
+ 50 118 l 1
+ 201 110 346 130 483 192 c 1
+ 547 114 l 1
+ 382 55 221 45 50 68 c 1
+324 191 m 0
+ 314 182 290 161 249 178 c 1
+ 272 174 293 199 294 201 c 0
+ 318 232 293 293 249 279 c 0
+ 217 269 231 222 261 243 c 1
+ 277 204 l 2
+ 278 201 263 191 256 189 c 0
+ 233 181 216 200 211 223 c 0
+ 189 326 326 336 342 256 c 0
+ 348 226 339 205 324 191 c 0
+324 -84 m 0
+ 314 -93 290 -114 249 -97 c 1
+ 272 -101 293 -77 294 -75 c 0
+ 318 -44 293 18 249 4 c 0
+ 217 -6 231 -54 261 -33 c 1
+ 277 -72 l 2
+ 278 -75 263 -84 256 -86 c 0
+ 233 -94 216 -75 211 -52 c 0
+ 189 51 326 61 342 -19 c 0
+ 348 -49 339 -70 324 -84 c 0
+EndSplineSet
+EndChar
+
+StartChar: uni06F1
+Encoding: 1777 1777 31
+Width: 235
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+174 1 m 1
+ 124 1 l 1
+ 125 22 126 43 126 63 c 0
+ 126 199 101 322 50 434 c 1
+ 128 498 l 1
+ 167 390 185 280 185 164 c 0
+ 185 112 182 58 174 1 c 1
+EndSplineSet
+EndChar
+
+StartChar: uni06F2
+Encoding: 1778 1778 32
+Width: 354
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+174 1 m 1
+ 124 1 l 1
+ 126 27 126 40 126 63 c 0
+ 126 199 101 322 50 434 c 1
+ 128 498 l 1
+ 160 414 183 385 216 385 c 0
+ 232 385 253 432 253 467 c 0
+ 253 475 252 484 250 492 c 1
+ 302 516 l 1
+ 304 507 304 501 304 472 c 0
+ 304 372 275 295 238 295 c 0
+ 221 295 199 301 174 313 c 1
+ 181 263 185 213 185 164 c 0
+ 185 110 181 57 174 1 c 1
+EndSplineSet
+EndChar
+
+StartChar: uni06F3
+Encoding: 1779 1779 33
+Width: 430
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+174 1 m 1
+ 125 1 l 1
+ 133 161 109 304 50 434 c 1
+ 129 498 l 1
+ 142 463 152 427 160 391 c 1
+ 201 410 230 449 238 497 c 1
+ 243 461 265 425 304 391 c 1
+ 327 424 335 458 327 492 c 1
+ 379 516 l 1
+ 389 431 358 339 304 297 c 1
+ 276 312 253 332 238 358 c 1
+ 201 292 198 288 178 297 c 1
+ 190 204 188 107 174 1 c 1
+EndSplineSet
+EndChar
+
+StartChar: uni06F4
+Encoding: 1780 1780 34
+Width: 430
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+336 515 m 0
+ 364 515 380 502 380 479 c 0
+ 380 449 353 406 313 374 c 1
+ 327 391 334 407 334 420 c 0
+ 334 438 319 451 298 451 c 0
+ 259 451 229 415 229 369 c 0
+ 229 361 230 356 233 348 c 1
+ 295 348 l 1
+ 312 318 317 303 320 274 c 1
+ 182 274 l 1
+ 186 239 188 203 188 167 c 0
+ 188 113 184 58 176 0 c 1
+ 126 0 l 1
+ 128 32 128 44 128 59 c 0
+ 128 196 102 322 50 438 c 1
+ 130 503 l 1
+ 149 451 162 399 172 346 c 1
+ 173 346 l 1
+ 183 428 266 515 336 515 c 0
+EndSplineSet
+EndChar
+
+StartChar: uni06F5
+Encoding: 1781 1781 35
+Width: 394
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+50 154 m 0
+ 50 261 121 379 186 379 c 0
+ 194 379 201 377 209 375 c 1
+ 181 428 l 1
+ 252 499 l 1
+ 305 393 344 234 344 125 c 0
+ 344 39 325 -10 292 -10 c 0
+ 267 -10 229 19 204 57 c 1
+ 190 22 166 -8 153 -8 c 0
+ 111 -8 50 87 50 154 c 0
+177 305 m 0
+ 142 305 97 237 97 185 c 0
+ 97 152 112 120 143 90 c 1
+ 174 118 194 153 204 195 c 1
+ 213 154 235 119 270 90 c 1
+ 285 112 293 137 293 165 c 0
+ 293 211 272 265 230 326 c 1
+ 227 296 218 267 201 235 c 1
+ 205 247 207 257 207 267 c 0
+ 207 290 195 305 177 305 c 0
+EndSplineSet
+EndChar
+
+StartChar: uni06F6
+Encoding: 1782 1782 36
+Width: 329
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+76 516 m 1
+ 124 451 l 1
+ 90 407 109 351 155 358 c 1
+ 169 407 187 454 209 499 c 1
+ 280 428 l 1
+ 210 307 171 164 162 0 c 1
+ 112 0 l 1
+ 109 98 116 190 134 276 c 1
+ 51 307 26 414 76 516 c 1
+EndSplineSet
+EndChar
+
+StartChar: uni06F7
+Encoding: 1783 1783 37
+Width: 422
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+372 499 m 1
+ 372 485 373 471 373 458 c 0
+ 373 287 340 136 275 0 c 1
+ 204 71 l 1
+ 274 192 313 335 322 499 c 1
+ 372 499 l 1
+114 399 m 0
+ 114 282 150 194 199 194 c 0
+ 217 194 229 208 229 230 c 0
+ 229 240 226 251 222 264 c 1
+ 241 232 252 197 252 169 c 0
+ 252 137 238 120 211 120 c 0
+ 125 120 50 288 50 480 c 0
+ 50 486 50 492 50 498 c 1
+ 130 499 l 1
+ 120 476 114 440 114 399 c 0
+EndSplineSet
+EndChar
+
+StartChar: uni06F8
+Encoding: 1784 1784 38
+Width: 422
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+51 0 m 1
+ 51 14 50 28 50 41 c 0
+ 50 212 83 363 148 499 c 1
+ 220 428 l 1
+ 150 306 110 162 101 0 c 1
+ 51 0 l 1
+309 102 m 0
+ 309 219 273 304 224 304 c 0
+ 206 304 195 291 195 269 c 0
+ 195 259 198 248 202 235 c 1
+ 183 268 172 303 172 331 c 0
+ 172 363 185 378 212 378 c 0
+ 298 378 373 210 373 18 c 0
+ 373 12 373 6 373 0 c 1
+ 293 0 l 1
+ 303 24 309 60 309 102 c 0
+EndSplineSet
+EndChar
+
+StartChar: uni06F9
+Encoding: 1785 1785 39
+Width: 310
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+149 516 m 1
+ 221 449 260 326 260 167 c 0
+ 260 113 256 59 248 0 c 1
+ 198 0 l 1
+ 199 22 200 44 200 65 c 0
+ 200 235 160 374 101 406 c 1
+ 81 393 69 372 69 351 c 0
+ 69 333 78 320 92 320 c 0
+ 103 320 112 326 128 342 c 1
+ 160 266 l 1
+ 142 248 120 236 103 236 c 0
+ 72 236 50 274 50 327 c 0
+ 50 385 83 447 149 516 c 1
+EndSplineSet
+EndChar
+
+StartChar: uniFE8E
+Encoding: 65166 65166 40
+Width: 224
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 94 0 basechar 0
+AnchorPoint: "top" 73 697 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+68 0 m 1
+ 69 28 70 56 70 84 c 0
+ 70 275 35 449 -36 608 c 1
+ 73 697 l 1
+ 130 537 158 375 158 213 c 0
+ 158 187 158 162 156 136 c 1
+ 224 136 l 1
+ 224 0 l 1
+ 68 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: uniFE90
+Encoding: 65168 65168 41
+Width: 913
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 472 -123 basechar 0
+AnchorPoint: "top" 482 419 basechar 0
+LayerCount: 2
+Fore
+Refer: 116 57354 N 1 0 0 1 0 0 3
+Refer: 86 57344 N 1 0 0 1 383 -123 2
+EndChar
+
+StartChar: uniFE91
+Encoding: 65169 65169 42
+Width: 202
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 0 -123 basechar 0
+AnchorPoint: "top" 76 433 basechar 0
+LayerCount: 2
+Fore
+Refer: 117 57355 N 1 0 0 1 0 0 3
+Refer: 86 57344 N 1 0 0 1 -89 -123 2
+EndChar
+
+StartChar: uniFE92
+Encoding: 65170 65170 43
+Width: 175
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "top" 32 280 basechar 0
+AnchorPoint: "bottom" 0 -123 basechar 0
+LayerCount: 2
+Back
+SplineSet
+466 133 m 2
+ 466 133 l 1
+ 466 0 l 1
+ 434 -3 395 38 367 77 c 1
+ 343 45 312 19 273 0 c 1
+ 273 135 l 1
+ 341 151 383 255 315 343 c 1
+ 382 433 l 1
+ 420 356 406.14453125 275.03125 421 205 c 0
+ 428 172 445 133 466 133 c 2
+273 494 m 0
+ 295 494 313 476 313 454 c 0
+ 313 432 295 415 273 415 c 0
+ 251 415 234 432 234 454 c 0
+ 234 476 251 494 273 494 c 0
+EndSplineSet
+Fore
+Refer: 86 57344 N 1 0 0 1 -89 -123 2
+Refer: 118 57356 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uniFE9E
+Encoding: 65182 65182 44
+Width: 461
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 101 -209 basechar 0
+AnchorPoint: "top" 256 355 basechar 0
+LayerCount: 2
+Fore
+Refer: 86 57344 N 1 0 0 1 231 -161 2
+Refer: 105 65186 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uniFE9F
+Encoding: 65183 65183 45
+Width: 369
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 168 -161 basechar 0
+AnchorPoint: "top" 122 355 basechar 0
+LayerCount: 2
+Fore
+Refer: 86 57344 N 1 0 0 1 79 -161 2
+Refer: 106 65187 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uniFEA0
+Encoding: 65184 65184 46
+Width: 318
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 168 -161 basechar 0
+AnchorPoint: "top" 123 354 basechar 0
+LayerCount: 2
+Fore
+Refer: 86 57344 N 1 0 0 1 79 -161 2
+Refer: 107 65188 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uniFEAA
+Encoding: 65194 65194 47
+Width: 417
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 159 -40 basechar 0
+AnchorPoint: "top" 187 441 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+327 220 m 0
+ 345 158 388 136 417 136 c 1
+ 417 0 l 1
+ 378 0 353 21 333 45 c 1
+ 330 28 326 15 322 1 c 1
+ 225 -51 124 -49 20 -17 c 1
+ 65 95 l 1
+ 141 76 213 76 282 95 c 1
+ 274 174 237 241 170 296 c 1
+ 204 441 l 1
+ 259 371 303 302 327 220 c 0
+EndSplineSet
+EndChar
+
+StartChar: uniFEAE
+Encoding: 65198 65198 48
+Width: 273
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 112 -174 basechar 0
+AnchorPoint: "top" 67 304 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+273 136 m 1
+ 273 0 l 1
+ 226 0 199 28 176 59 c 1
+ 141 -50 80 -123 5 -174 c 1
+ -50 -72 l 1
+ 16 -37 112 2 111 84 c 0
+ 110 139 96 187 69 231 c 1
+ 147 304 l 1
+ 189 189 231 136 273 136 c 1
+EndSplineSet
+EndChar
+
+StartChar: uniFEB2
+Encoding: 65202 65202 49
+Width: 1270
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 257 -313 basechar 0
+AnchorPoint: "top" 762 265 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+129 -59 m 0
+ 129 -132 177 -174 263 -174 c 0
+ 458 -174 715 33 818 272 c 1
+ 827 218 858 170 903 136 c 1
+ 951 181 979 230 989 284 c 1
+ 996 234 1026 185 1082 136 c 1
+ 1121 185 1143 229 1168 284 c 1
+ 1177 224 1254 136 1270 136 c 1
+ 1270 0 l 1
+ 1260 0 1204 28 1167 90 c 1
+ 1148 57 1119 28 1082 3 c 1
+ 1041 25 1010 53 988 89 c 1
+ 969 57 941 28 903 3 c 1
+ 855 26 825 55 816 89 c 1
+ 664 -148 435 -313 257 -313 c 0
+ 139 -313 50 -231 50 -121 c 0
+ 50 21 247 318 404 318 c 0
+ 454 318 489 295 489 262 c 0
+ 489 220 436 163 365 128 c 1
+ 394 151 410 174 410 195 c 0
+ 410 219 388 237 356 237 c 0
+ 260 237 129 65 129 -59 c 0
+EndSplineSet
+EndChar
+
+StartChar: uniFEB3
+Encoding: 65203 65203 50
+Width: 564
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 244 -2 basechar 0
+AnchorPoint: "top" 328 304 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+473 431 m 1
+ 500 380 514 322 514 261 c 0
+ 514 155 470 48 406 -2 c 1
+ 366 19 336 48 313 85 c 1
+ 294 52 265 23 228 -2 c 1
+ 181 20 150 51 141 85 c 1
+ 110 41 64 13 0 0 c 1
+ 0 136 l 1
+ 88 159 135 207 141 279 c 1
+ 147 221 178 169 228 131 c 1
+ 275 175 303 224 313 279 c 1
+ 320 230 351 181 407 131 c 1
+ 431 165 443 199 443 234 c 0
+ 443 269 430 305 406 340 c 1
+ 473 431 l 1
+EndSplineSet
+Refer: 148 57357 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniFEB4
+Encoding: 65204 65204 51
+Width: 547
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 261 0 basechar 0
+AnchorPoint: "top" 270 284 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+359 3 m 1
+ 330 9 280 64 265 89 c 1
+ 245 55 216 27 180 3 c 1
+ 137 23 104 52 93 87 c 1
+ 71 52 41 22 0 0 c 1
+ 0 136 l 1
+ 53 183 88 232 95 284 c 1
+ 105 228 134 179 180 136 c 1
+ 226 179 255 229 265 284 c 1
+ 272 232 305 183 358 136 c 1
+ 403 180 434 228 444 284 c 1
+ 450 239 503 150 547 136 c 1
+ 547 0 l 1
+ 517 0 459 65 444 90 c 1
+ 424 56 395 27 359 3 c 1
+EndSplineSet
+Refer: 148 57357 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniFECA
+Encoding: 65226 65226 52
+Width: 488
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 101 -207 basechar 0
+AnchorPoint: "top" 300 305 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+101 -207 m 0
+ 71 -207 50 -176 50 -129 c 0
+ 50 -1 150 93 231 137 c 1
+ 169 185 122 251 112 305 c 1
+ 488 305 l 1
+ 478 250 431 183 370 136 c 1
+ 488 136 l 1
+ 488 0 l 1
+ 422 0 l 2
+ 401 0 349 33 299 79 c 1
+ 184 26 115 -38 115 -85 c 0
+ 115 -109 133 -125 158 -125 c 0
+ 182 -125 206 -111 224 -86 c 1
+ 193 -156 141 -207 101 -207 c 0
+299 173 m 1
+ 334 193 360 214 380 243 c 1
+ 220 243 l 1
+ 234 224 268 194 299 173 c 1
+EndSplineSet
+EndChar
+
+StartChar: uniFECB
+Encoding: 65227 65227 53
+Width: 385
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 155 0 basechar 0
+AnchorPoint: "top" 273 371 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+273 371 m 0
+ 311 371 335 351 335 320 c 0
+ 335 278 297 220 241 175 c 1
+ 260 199 270 221 270 239 c 0
+ 270 265 250 282 220 282 c 0
+ 166 282 126 233 126 169 c 0
+ 126 158 128 146 131 136 c 9
+ 216 136 l 1
+ 241 94 254 47 253 1 c 1
+ 0 1 l 1
+ 0 136 l 1
+ 48 136 l 1
+ 62 251 177 371 273 371 c 0
+EndSplineSet
+Refer: 148 57357 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniFECC
+Encoding: 65228 65228 54
+Width: 377
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 176 0 basechar 0
+AnchorPoint: "top" 189 304 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+377 136 m 1
+ 377 0 l 1
+ 308 0 l 1
+ 255 31 205 64 187 79 c 1
+ 150 54 100 21 67 0 c 1
+ 0 0 l 1
+ 0 136 l 1
+ 117 136 l 1
+ 56 184 11 251 1 304 c 1
+ 377 304 l 1
+ 367 251 323 184 261 136 c 1
+ 377 136 l 1
+109 243 m 1
+ 127 218 156 189 189 172 c 1
+ 222 189 251 218 269 243 c 1
+ 109 243 l 1
+EndSplineSet
+Refer: 148 57357 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniFEBA
+Encoding: 65210 65210 55
+Width: 1184
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 260 -315 basechar 0
+AnchorPoint: "top" 845 330 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+50 -112 m 0
+ 50 59 250 313 415 313 c 0
+ 461 313 493 290 493 259 c 0
+ 493 217 440 160 368 125 c 1
+ 397 148 412 172 412 193 c 0
+ 412 218 390 236 360 236 c 0
+ 266 236 132 61 132 -62 c 0
+ 132 -99 146 -176 266 -176 c 0
+ 461 -176 718 31 821 270 c 1
+ 829 220 859 170 901 136 c 1
+ 1041 136 l 1
+ 998 193 949 222 886 226 c 1
+ 845 330 l 1
+ 963 322 1084 245 1148 136 c 1
+ 1184 136 l 1
+ 1184 0 l 17
+ 907 0 l 2
+ 871 0 832 38 819 87 c 1
+ 667 -150 438 -315 260 -315 c 0
+ 139 -315 50 -229 50 -112 c 0
+EndSplineSet
+EndChar
+
+StartChar: uniFEBB
+Encoding: 65211 65211 56
+Width: 509
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 216 0 basechar 0
+AnchorPoint: "top" 121 330 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+457 0 m 9
+ 179 0 l 2
+ 137 0 105 50 94 85 c 1
+ 72 50 41 22 0 0 c 1
+ 0 136 l 1
+ 53 182 88 231 95 282 c 1
+ 105 229 135 178 177 136 c 1
+ 317 136 l 1
+ 282 183 235 221 161 226 c 1
+ 121 330 l 1
+ 252 322 457 210 457 0 c 9
+EndSplineSet
+Refer: 148 57357 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniFEBC
+Encoding: 65212 65212 57
+Width: 456
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 216 0 basechar 0
+AnchorPoint: "top" 120 329 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+424 136 m 1
+ 456 136 l 1
+ 456 0 l 1
+ 179 0 l 0
+ 145 0 108 36 93 84 c 1
+ 69 48 39 20 0 0 c 1
+ 0 136 l 1
+ 57 186 88 233 95 281 c 1
+ 105 230 133 180 177 136 c 1
+ 317 136 l 1
+ 275 192 225 221 161 225 c 1
+ 120 329 l 1
+ 241 321 361 244 424 136 c 1
+EndSplineSet
+Refer: 148 57357 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniFEC2
+Encoding: 65218 65218 58
+Width: 565
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 308 0 basechar 0
+AnchorPoint: "top" 348 330 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+532 136 m 1
+ 565 136 l 1
+ 565 0 l 1
+ 65 0 l 1
+ 125 136 l 1
+ 150 136 l 1
+ 138 270 106 401 50 527 c 1
+ 159 617 l 1
+ 193 521 216 426 228 330 c 1
+ 366 321 479 230 532 136 c 1
+240 136 m 1
+ 425 136 l 1
+ 389 186 346 221 269 226 c 1
+ 229 323 l 1
+ 237 261 241 199 240 136 c 1
+EndSplineSet
+EndChar
+
+StartChar: uniFEC3
+Encoding: 65219 65219 59
+Width: 505
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 198 0 basechar 0
+AnchorPoint: "top" 239 330 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+455 0 m 9
+ 0 0 l 1
+ 0 136 l 1
+ 41 136 l 1
+ 29 270 -3 401 -60 527 c 1
+ 49 617 l 1
+ 83 521 107 426 119 330 c 1
+ 248 322 455 212 455 0 c 9
+130 136 m 1
+ 315 136 l 1
+ 279 186 237 221 160 226 c 1
+ 119 323 l 1
+ 127 261 131 199 130 136 c 1
+EndSplineSet
+Refer: 148 57357 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniFEC4
+Encoding: 65220 65220 60
+Width: 455
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 198 0 basechar 0
+AnchorPoint: "top" 240 330 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+422 136 m 1
+ 455 136 l 1
+ 455 0 l 1
+ 0 0 l 1
+ 0 136 l 1
+ 41 136 l 1
+ 29 270 -4 401 -60 527 c 1
+ 49 617 l 1
+ 83 521 107 426 119 330 c 1
+ 257 321 369 230 422 136 c 1
+130 136 m 1
+ 316 136 l 1
+ 280 186 237 221 160 226 c 1
+ 120 323 l 1
+ 128 261 131 199 130 136 c 1
+EndSplineSet
+Refer: 148 57357 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniFEEE
+Encoding: 65262 65262 61
+Width: 311
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 172 -157 basechar 0
+AnchorPoint: "top" 152 406 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+103 120 m 0
+ 73 120 51 159 51 212 c 0
+ 51 272 85 336 152 406 c 1
+ 187 374 212 335 230 284 c 0
+ 239 261 244 231 255 202 c 0
+ 271 164 296 146 311 136 c 9
+ 311 0 l 1
+ 292 7 283 17 253 59 c 1
+ 234 -16 170 -101 89 -157 c 1
+ 33 -55 l 1
+ 180 23 188 63 188 112 c 0
+ 188 175 147 263 103 294 c 1
+ 83 281 70 259 70 237 c 0
+ 70 218 80 206 94 206 c 0
+ 107 206 120 217 131 228 c 1
+ 164 151 l 1
+ 144 131 122 120 103 120 c 0
+EndSplineSet
+EndChar
+
+StartChar: uniFEE6
+Encoding: 65254 65254 62
+Width: 880
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 255 -316 basechar 0
+AnchorPoint: "top" 465 390 basechar 0
+LayerCount: 2
+Fore
+Refer: 114 57352 N 1 0 0 1 0 0 3
+Refer: 86 57344 N 1 0 0 1 323 -3 2
+EndChar
+
+StartChar: uniFEE2
+Encoding: 65250 65250 63
+Width: 447
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "top" 201 422 basechar 0
+AnchorPoint: "bottom" 341 -244 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+282 118 m 0
+ 296 118 319 175 319 210 c 0
+ 319 248 304 288 274 331 c 1
+ 341 422 l 1
+ 365 377 376 331 384 251 c 0
+ 390 198 413 155 447 136 c 1
+ 447 0 l 25
+ 413 0 381 31 356 87 c 1
+ 338 53 314 22 290 4 c 1
+ 250 25 219 56 203 87 c 1
+ 182 66 180 63 180 56 c 0
+ 180 -29 207 -139 207 -224 c 0
+ 207 -299 202 -374 191 -450 c 1
+ 121 -450 l 1
+ 123 -405 123 -389 123 -368 c 0
+ 123 -208 99 -62 50 75 c 1
+ 182 170 203 193 263 309 c 1
+ 290 266 l 1
+ 278 242 241 217 241 182 c 0
+ 241 159 267 118 282 118 c 0
+EndSplineSet
+EndChar
+
+StartChar: uniFEE3
+Encoding: 65251 65251 64
+Width: 308
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "top" 159 417 basechar 0
+AnchorPoint: "bottom" 161 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+153 114 m 0
+ 167 114 189 169 189 205 c 0
+ 189 243 174 283 144 327 c 1
+ 211 418 l 1
+ 242 361 259 291 259 224 c 0
+ 259 128 224 49 161 0 c 1
+ 122 21 90 51 74 83 c 1
+ 43 35 16 5 0 0 c 1
+ 0 136 l 1
+ 35 150 97 228 133 305 c 1
+ 162 259 l 1
+ 141 230 114 193 114 173 c 0
+ 114 152 139 114 153 114 c 0
+EndSplineSet
+Refer: 148 57357 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniFEE4
+Encoding: 65252 65252 65
+Width: 317
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 159 -1 basechar 0
+AnchorPoint: "top" 159 417 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+161 261 m 2
+ 172.216834756 243.136152056 95.5268268294 201.79582439 116 155 c 0
+ 130 123 150.543846533 105.610751897 159 118 c 0
+ 202 181 198 249 145 326 c 1
+ 212 417 l 1
+ 235 373 245.3735291 327.825002646 255 246 c 0
+ 261 195 283 155 317 136 c 1
+ 317 0 l 1
+ 284 0 248 33 226 83 c 1
+ 204 49 182 21 159 -1 c 1
+ 121 19 89 50 73 82 c 1
+ 43 36 17 7 0 0 c 1
+ 0 136 l 1
+ 36 152 97 229 134 304 c 1
+ 161 261 l 2
+EndSplineSet
+Refer: 148 57357 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniFEDE
+Encoding: 65246 65246 66
+Width: 880
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 260 -318 basechar 0
+AnchorPoint: "top" 465 699 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+50 -112 m 0
+ 50 70 259 313 416 313 c 0
+ 461 313 493 291 493 260 c 0
+ 493 218 440 161 368 126 c 1
+ 397 149 412 173 412 194 c 0
+ 412 219 391 236 361 236 c 0
+ 267 236 132 61 132 -62 c 0
+ 132 -135 181 -176 266 -176 c 0
+ 393 -176 566 -78 691 65 c 1
+ 691 71 691 76 691 82 c 0
+ 691 275 656 449 584 609 c 1
+ 694 699 l 1
+ 739 571 765 444 777 280 c 0
+ 781 231 833 157 880 136 c 1
+ 880 0 l 1
+ 857 0 803 48 778 90 c 1
+ 774 67 763 18 758 2 c 1
+ 607 -185 400 -318 260 -318 c 0
+ 141 -318 50 -228 50 -112 c 0
+EndSplineSet
+EndChar
+
+StartChar: uniFEDF
+Encoding: 65247 65247 67
+Width: 193
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 48 0 basechar 0
+AnchorPoint: "top" 62 697 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+126 0 m 1
+ 0 0 l 1
+ 0 136 l 1
+ 58 136 l 1
+ 52 308 17 464 -48 607 c 1
+ 62 697 l 1
+ 116 546 143 393 143 231 c 0
+ 143 157 137 80 126 0 c 1
+EndSplineSet
+Refer: 148 57357 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniFEE0
+Encoding: 65248 65248 68
+Width: 179
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 64 0 basechar 0
+AnchorPoint: "top" 60 695 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+179 0 m 1
+ 164 0 105 54 85 86 c 1
+ 63 51 35 22 0 0 c 1
+ 0 136 l 1
+ 37 155 52 171 52 191 c 0
+ 52 295 7 477 -50 605 c 1
+ 60 695 l 1
+ 104 573 128 449 142 275 c 0
+ 151 163 155 149 179 136 c 1
+ 179 0 l 1
+EndSplineSet
+Refer: 148 57357 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniFEEB
+Encoding: 65259 65259 69
+Width: 408
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 166 0 basechar 0
+AnchorPoint: "top" 166 420 basechar 0
+LayerCount: 2
+Back
+SplineSet
+177 4 m 1
+ 116 5 l 1
+ 78 150 195 329 288 315 c 0
+ 349 306 338 202 284 115 c 1
+ 342 278 117 220 179 64 c 1
+ 177 4 l 1
+309 483 m 1
+ 411 355 480 217 428 43 c 1
+ 331 -9 229 -8 125 24 c 1
+ 170 137 l 1
+ 246 118 318 118 387 137 c 1
+ 379 216 342 283 275 338 c 1
+ 309 483 l 1
+677 216 m 0
+ 652 158 703 138 721 138 c 0
+ 777 138 808 140 865 138 c 1
+ 862 171 851 202 824 230 c 1
+ 811 202 785 166 753 140 c 1
+ 827 232 702 274 677 216 c 0
+628 138 m 1
+ 628 138 l 1
+ 603 197 637 269 701 278 c 1
+ 735 422 l 1
+ 840 344 958 216 906 43 c 1
+ 854 15 801 2 747 2 c 2
+ 746 2 l 2
+ 743 2 741 2 738 2 c 2
+ 550 2 l 1
+ 550 137 l 1
+ 628 138 l 1
+ 628 138 l 1
+159 137 m 1
+ 267 2 l 1
+ 50 2 l 1
+ 50 137 l 1
+ 159 137 l 1
+EndSplineSet
+Fore
+SplineSet
+153 241 m 0
+ 124 241 100 217 100 187 c 0
+ 100 156 124 136 161 136 c 2
+ 295 136 l 1
+ 292 172 279 202 254 228 c 1
+ 239 195 211 159 183 137 c 1
+ 198 156 206 175 206 192 c 0
+ 206 219 183 241 153 241 c 0
+50 177 m 0
+ 50 228 84 269 131 276 c 1
+ 165 420 l 1
+ 278 337 358 215 358 127 c 0
+ 358 76 334 34 286 0 c 1
+ 247 19 216 47 192 86 c 1
+ 174 54 146 26 107 0 c 1
+ 0 0 l 1
+ 0 136 l 1
+ 58 136 l 1
+ 53 148 50 162 50 177 c 0
+EndSplineSet
+Refer: 148 57357 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniFEEC
+Encoding: 65260 65260 70
+Width: 349
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 92 -203 basechar 0
+AnchorPoint: "top" 152 136 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+36 -102 m 1
+ 105 -62 121 -45 121 -15 c 0
+ 121 13 95 35 62 35 c 0
+ 38 35 15 23 0 0 c 1
+ 0 136 l 1
+ 12 136 26 136 39 136 c 0
+ 111 136 169 85 179 15 c 1
+ 208 48 222 84 222 118 c 0
+ 222 124 222 130 221 136 c 1
+ 349 136 l 1
+ 349 0 l 1
+ 319 0 302 17 290 59 c 1
+ 259 -38 178 -145 92 -203 c 1
+ 36 -102 l 1
+EndSplineSet
+Refer: 148 57357 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniFEEA
+Encoding: 65258 65258 71
+Width: 394
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 222 0 basechar 0
+AnchorPoint: "top" 222 469 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+186 469 m 1
+ 251 409 276 349 282 232 c 0
+ 286 166 292 147 316 136 c 1
+ 394 136 l 1
+ 394 0 l 1
+ 316 0 l 2
+ 245 0 217 43 217 153 c 0
+ 217 242 173 358 140 358 c 0
+ 119 358 86 312 86 283 c 0
+ 86 267 95 257 110 257 c 0
+ 126 257 145 269 165 291 c 1
+ 198 214 l 2
+ 202 203 142 178 111 178 c 0
+ 75 178 50 210 50 258 c 0
+ 50 327 102 408 186 469 c 1
+EndSplineSet
+EndChar
+
+StartChar: uniFEF0
+Encoding: 65264 65264 72
+Width: 600
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 279 -143 basechar 0
+AnchorPoint: "top" 325 422 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+600 0 m 1
+ 414 0 355 28 355 117 c 0
+ 355 146 366 184 386 228 c 1
+ 413 166 463 136 539 136 c 0
+ 558 136 578 136 600 136 c 1
+ 600 0 l 1
+238 331 m 0
+ 174 331 129 266 129 172 c 0
+ 129 58 207 -28 309 -28 c 0
+ 353 -28 394 -11 432 23 c 1
+ 561 2 l 1
+ 485 -89 380 -143 279 -143 c 0
+ 141 -143 50 -46 50 103 c 0
+ 50 271 161 422 283 422 c 0
+ 321 422 345 403 345 371 c 0
+ 345 329 307 270 252 226 c 1
+ 273 253 283 275 283 293 c 0
+ 283 316 266 331 238 331 c 0
+EndSplineSet
+EndChar
+
+StartChar: uniFED2
+Encoding: 65234 65234 73
+Width: 905
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 323 -47 basechar 0
+AnchorPoint: "top" 662 592 basechar 0
+LayerCount: 2
+Fore
+Refer: 90 57348 N 1 0 0 1 0 0 3
+Refer: 86 57344 N 1 0 0 1 573 514 2
+EndChar
+
+StartChar: uniFED3
+Encoding: 65235 65235 74
+Width: 306
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 116 0 basechar 0
+AnchorPoint: "top" 73 586 basechar 0
+LayerCount: 2
+Fore
+Refer: 91 57349 N 1 0 0 1 0 0 3
+Refer: 86 57344 N 1 0 0 1 -16 508 2
+EndChar
+
+StartChar: uniFED4
+Encoding: 65236 65236 75
+Width: 323
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 149 -1 basechar 0
+AnchorPoint: "top" 75 592 basechar 0
+LayerCount: 2
+Fore
+Refer: 112 57350 N 1 0 0 1 0 0 3
+Refer: 86 57344 N 1 0 0 1 -14 514 2
+EndChar
+
+StartChar: uniFED6
+Encoding: 65238 65238 76
+Width: 907
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 260 -314 basechar 0
+AnchorPoint: "top" 699 589 basechar 0
+LayerCount: 2
+Fore
+Refer: 113 57351 N 1 0 0 1 0 0 3
+Refer: 87 57345 N 1 0 0 1 571 511 2
+EndChar
+
+StartChar: uniFEDB
+Encoding: 65243 65243 77
+Width: 356
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 266 0 basechar 0
+AnchorPoint: "top" 266 774 basechar 0
+LayerCount: 2
+Fore
+Refer: 139 64400 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uniFEDC
+Encoding: 65244 65244 78
+Width: 311
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 266 0 basechar 0
+AnchorPoint: "top" 266 774 basechar 0
+LayerCount: 2
+Fore
+Refer: 140 64401 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uniFEDA
+Encoding: 65242 65242 79
+Width: 922
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 339 -42 basechar 0
+AnchorPoint: "top" 514 384 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+768 157 m 0
+ 768 257 742 408 708 508 c 1
+ 807 587 l 1
+ 840 465 856 340 856 213 c 0
+ 856 183 896 136 922 136 c 1
+ 922 0 l 1
+ 882 0 768 116 768 157 c 0
+130 174 m 0
+ 130 110 203 77 344 77 c 0
+ 484 77 657 114 776 169 c 1
+ 819 93 l 1
+ 768 14 568 -42 339 -42 c 0
+ 148 -42 50 12 50 116 c 0
+ 50 237 171 377 276 377 c 0
+ 314 377 338 357 338 325 c 0
+ 338 283 300 224 245 180 c 1
+ 264 204 274 226 274 244 c 0
+ 274 270 254 287 224 287 c 0
+ 170 287 130 238 130 174 c 0
+EndSplineSet
+Refer: 167 1620 N 1 0 0 1 514 232 2
+EndChar
+
+StartChar: uniFB93
+Encoding: 64403 64403 80
+Width: 890
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 291 -66 basechar 0
+AnchorPoint: "top" 908 924 basechar 0
+LayerCount: 2
+Fore
+Refer: 115 57353 N 1 0 0 1 633 764 2
+Refer: 138 64399 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uniFB94
+Encoding: 64404 64404 81
+Width: 356
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 266 0 basechar 0
+AnchorPoint: "top" 330 924 basechar 0
+LayerCount: 2
+Fore
+Refer: 115 57353 N 1 0 0 1 55 764 2
+Refer: 139 64400 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uniFB95
+Encoding: 64405 64405 82
+Width: 311
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 266 0 basechar 0
+AnchorPoint: "top" 330 924 basechar 0
+LayerCount: 2
+Fore
+Refer: 115 57353 N 1 0 0 1 55 764 2
+Refer: 140 64401 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni066E
+Encoding: 1646 1646 83
+Width: 888
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 291 0 basechar 0
+AnchorPoint: "top" 459 419 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+129 216 m 0
+ 129 152 203 119 345 119 c 0
+ 557 119 804 194 868 278 c 1
+ 820 105 601 0 291 -0 c 0
+ 128 0 50 51 50 158 c 0
+ 50 279 171 419 276 419 c 0
+ 314 419 338 399 338 368 c 0
+ 338 326 300 268 244 223 c 1
+ 263 247 273 269 273 287 c 0
+ 273 312 254 329 224 329 c 0
+ 170 329 129 280 129 216 c 0
+EndSplineSet
+EndChar
+
+StartChar: uni062A
+Encoding: 1578 1578 84
+Width: 888
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 291 0 basechar 0
+AnchorPoint: "top" 459 419 basechar 0
+LayerCount: 2
+Fore
+Refer: 87 57345 N 1 0 0 1 432 306 2
+Refer: 83 1646 N 1 0 0 1 0 0 3
+Substitution2: "'init' Initial Forms in Arabic lookup 1 subtable" uniFE97
+Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFE98
+Substitution2: "'fina' Terminal Forms in Arabic lookup 3 subtable" uniFE96
+EndChar
+
+StartChar: uni062B
+Encoding: 1579 1579 85
+Width: 888
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 291 0 basechar 0
+AnchorPoint: "top" 561 467 basechar 0
+LayerCount: 2
+Fore
+Refer: 88 57346 N 1 0 0 1 432 306 2
+Refer: 83 1646 N 1 0 0 1 0 0 3
+Substitution2: "'init' Initial Forms in Arabic lookup 1 subtable" uniFE9B
+Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFE9C
+Substitution2: "'fina' Terminal Forms in Arabic lookup 3 subtable" uniFE9A
+EndChar
+
+StartChar: uniE000
+Encoding: 57344 57344 86
+Width: 178
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+50 39 m 0
+ 50 61 67 78 89 78 c 0
+ 111 78 128 61 128 39 c 0
+ 128 17 111 0 89 0 c 0
+ 67 0 50 17 50 39 c 0
+EndSplineSet
+EndChar
+
+StartChar: uniE001
+Encoding: 57345 57345 87
+Width: 256
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 86 57344 N 1 0 0 1 78 0 2
+Refer: 86 57344 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniE002
+Encoding: 57346 57346 88
+Width: 258
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 86 57344 N 1 0 0 1 40 83 2
+Refer: 86 57344 N 1 0 0 1 78 0 2
+Refer: 86 57344 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniE003
+Encoding: 57347 57347 89
+Width: 258
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 86 57344 N 1 0 0 1 40 0 2
+Refer: 86 57344 N 1 0 0 1 78 83 2
+Refer: 86 57344 N 1 0 0 1 0 83 2
+EndChar
+
+StartChar: uniE004
+Encoding: 57348 57348 90
+Width: 905
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+817 84 m 1
+ 730 6 529 -47 323 -47 c 0
+ 134 -47 50 2 50 111 c 0
+ 50 232 171 372 277 372 c 0
+ 315 372 339 352 339 321 c 0
+ 339 279 301 221 245 176 c 1
+ 264 200 274 222 274 240 c 0
+ 274 265 255 282 225 282 c 0
+ 171 282 130 233 130 169 c 0
+ 130 103 206 73 369 73 c 0
+ 494 73 655 108 763 158 c 1
+ 764 240 731 321 683 353 c 1
+ 663 340 650 319 650 297 c 0
+ 650 278 660 266 674 266 c 0
+ 685 266 697 273 711 288 c 1
+ 743 210 l 1
+ 731 194 703 179 685 179 c 0
+ 653 179 631 217 631 271 c 0
+ 631 331 665 396 732 466 c 1
+ 783 420 814 356 832 261 c 0
+ 846 187 862 159 905 134 c 1
+ 905 -1 l 1
+ 865 14 828 49 817 84 c 1
+EndSplineSet
+EndChar
+
+StartChar: uniE005
+Encoding: 57349 57349 91
+Width: 306
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+148 472 m 1
+ 225 406 256 295 256 146 c 1
+ 228 70 131 0 0 0 c 0
+ 0 136 l 17
+ 120 136 154 145 180 170 c 1
+ 181 249 148 328 99 359 c 1
+ 78 346 66 324 66 303 c 0
+ 66 284 76 272 90 272 c 0
+ 101 272 113 279 127 294 c 1
+ 159 216 l 1
+ 148 201 120 185 101 185 c 0
+ 69 185 47 223 47 277 c 0
+ 47 337 81 402 148 472 c 1
+EndSplineSet
+Refer: 148 57357 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniFED0
+Encoding: 65232 65232 92
+Width: 377
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 176 0 basechar 0
+AnchorPoint: "top" 187 477 basechar 0
+LayerCount: 2
+Fore
+Refer: 86 57344 N 1 0 0 1 98 399 2
+Refer: 54 65228 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uniFEB6
+Encoding: 65206 65206 93
+Width: 1270
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 257 -313 basechar 0
+AnchorPoint: "top" 985 492 basechar 0
+LayerCount: 2
+Fore
+Refer: 88 57346 N 1 0 0 1 856 331 2
+Refer: 49 65202 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uniFEB7
+Encoding: 65207 65207 94
+Width: 564
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 244 -2 basechar 0
+AnchorPoint: "top" 285 492 basechar 0
+LayerCount: 2
+Fore
+Refer: 88 57346 N 1 0 0 1 156 331 2
+Refer: 50 65203 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uniFEB8
+Encoding: 65208 65208 95
+Width: 547
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 261 0 basechar 0
+AnchorPoint: "top" 255 492 basechar 0
+LayerCount: 2
+Fore
+Refer: 88 57346 N 1 0 0 1 126 331 2
+Refer: 51 65204 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uniFECE
+Encoding: 65230 65230 96
+Width: 488
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 101 -207 basechar 0
+AnchorPoint: "top" 293 477 basechar 0
+LayerCount: 2
+Fore
+Refer: 86 57344 N 1 0 0 1 204 399 2
+Refer: 52 65226 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uniFECF
+Encoding: 65231 65231 97
+Width: 385
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 155 0 basechar 0
+AnchorPoint: "top" 247 525 basechar 0
+LayerCount: 2
+Fore
+Refer: 86 57344 N 1 0 0 1 158 447 2
+Refer: 53 65227 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uniFEBE
+Encoding: 65214 65214 98
+Width: 1184
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 260 -315 basechar 0
+AnchorPoint: "top" 884 477 basechar 0
+LayerCount: 2
+Fore
+Refer: 86 57344 N 1 0 0 1 795 399 2
+Refer: 55 65210 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uniFEBF
+Encoding: 65215 65215 99
+Width: 509
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 216 0 basechar 0
+AnchorPoint: "top" 161 477 basechar 0
+LayerCount: 2
+Fore
+Refer: 86 57344 N 1 0 0 1 72 399 2
+Refer: 56 65211 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uniFEC0
+Encoding: 65216 65216 100
+Width: 456
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 216 0 basechar 0
+AnchorPoint: "top" 161 477 basechar 0
+LayerCount: 2
+Fore
+Refer: 86 57344 N 1 0 0 1 72 399 2
+Refer: 57 65212 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uniFEC6
+Encoding: 65222 65222 101
+Width: 565
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 308 0 basechar 0
+AnchorPoint: "top" 353 479 basechar 0
+LayerCount: 2
+Fore
+Refer: 86 57344 N 1 0 0 1 264 401 2
+Refer: 58 65218 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uniFEC7
+Encoding: 65223 65223 102
+Width: 505
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 198 0 basechar 0
+AnchorPoint: "top" 289 479 basechar 0
+LayerCount: 2
+Fore
+Refer: 86 57344 N 1 0 0 1 200 401 2
+Refer: 59 65219 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uniFEC8
+Encoding: 65224 65224 103
+Width: 455
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 198 0 basechar 0
+AnchorPoint: "top" 289 479 basechar 0
+LayerCount: 2
+Fore
+Refer: 86 57344 N 1 0 0 1 200 401 2
+Refer: 60 65220 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uniFEB0
+Encoding: 65200 65200 104
+Width: 273
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 112 -174 basechar 0
+AnchorPoint: "top" 107 475 basechar 0
+LayerCount: 2
+Fore
+Refer: 86 57344 N 1 0 0 1 18 397 2
+Refer: 48 65198 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uniFEA2
+Encoding: 65186 65186 105
+Width: 461
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 101 -209 basechar 0
+AnchorPoint: "top" 256 355 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+50 -130 m 0
+ 50 3 166 136 284 136 c 2
+ 323 136 l 1
+ 297 196 220 258 171 258 c 1
+ 146 355 l 1
+ 255 348 374 257 430 136 c 1
+ 461 136 l 1
+ 461 0 l 1
+ 226 0 l 2
+ 156 0 122 -27 122 -82 c 0
+ 122 -112 138 -133 160 -133 c 0
+ 179 -133 202 -117 223 -88 c 1
+ 192 -158 140 -209 101 -209 c 0
+ 71 -209 50 -177 50 -130 c 0
+EndSplineSet
+EndChar
+
+StartChar: uniFEA3
+Encoding: 65187 65187 106
+Width: 369
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 146 0 basechar 0
+AnchorPoint: "top" 122 355 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+316 0 m 9
+ 0 0 l 1
+ 0 136 l 1
+ 181 136 l 1
+ 129 214 76 256 26 258 c 1
+ 2 355 l 1
+ 159 345 316 167 316 0 c 9
+EndSplineSet
+Refer: 148 57357 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniFEA4
+Encoding: 65188 65188 107
+Width: 318
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 146 0 basechar 0
+AnchorPoint: "top" 123 354 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+285 136 m 1
+ 318 136 l 1
+ 318 0 l 1
+ 0 0 l 1
+ 0 136 l 1
+ 182 136 l 1
+ 146 189 95 253 27 257 c 1
+ 3 354 l 1
+ 131 346 235 236 285 136 c 1
+EndSplineSet
+Refer: 148 57357 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniFEA6
+Encoding: 65190 65190 108
+Width: 461
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 101 -209 basechar 0
+AnchorPoint: "top" 242 494 basechar 0
+LayerCount: 2
+Fore
+Refer: 86 57344 N 1 0 0 1 153 416 2
+Refer: 105 65186 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uniFEA7
+Encoding: 65191 65191 109
+Width: 369
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 146 0 basechar 0
+AnchorPoint: "top" 31 494 basechar 0
+LayerCount: 2
+Fore
+Refer: 86 57344 N 1 0 0 1 -58 416 2
+Refer: 106 65187 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uniFEA8
+Encoding: 65192 65192 110
+Width: 318
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 146 0 basechar 0
+AnchorPoint: "top" 31 494 basechar 0
+LayerCount: 2
+Fore
+Refer: 86 57344 N 1 0 0 1 -58 416 2
+Refer: 107 65188 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniFEAC
+Encoding: 65196 65196 111
+Width: 417
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 159 -40 basechar 0
+AnchorPoint: "top" 193 593 basechar 0
+LayerCount: 2
+Fore
+Refer: 86 57344 N 1 0 0 1 104 515 2
+Refer: 47 65194 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uniE006
+Encoding: 57350 57350 112
+Width: 323
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+227 96 m 1
+ 178 36 93 0 0 0 c 1
+ 0 136 l 1
+ 114 136 153 144 180 170 c 1
+ 181 250 147 328 99 359 c 1
+ 79 346 66 325 66 303 c 0
+ 66 284 76 272 90 272 c 0
+ 101 272 113 279 127 294 c 1
+ 159 216 l 1
+ 147 200 119 185 101 185 c 0
+ 69 185 47 223 47 277 c 0
+ 47 337 81 402 148 472 c 1
+ 201 427 230 356 248 262 c 0
+ 262 188 279 161 323 136 c 1
+ 323 -1 l 1
+ 276 18 242 52 227 96 c 1
+EndSplineSet
+Refer: 148 57357 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniE007
+Encoding: 57351 57351 113
+Width: 907
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+50 -112 m 0
+ 50 70 259 313 415 313 c 0
+ 460 313 492 290 492 259 c 0
+ 492 217 439 160 368 125 c 1
+ 397 148 412 172 412 193 c 0
+ 412 218 390 237 360 237 c 0
+ 266 237 132 62 132 -61 c 0
+ 132 -135 182 -177 270 -177 c 0
+ 434 -177 639 -34 763 167 c 0
+ 764 170 764 174 764 182 c 0
+ 764 243 725 328 683 357 c 1
+ 663 344 650 322 650 300 c 0
+ 650 281 660 269 674 269 c 0
+ 685 269 695 275 711 291 c 1
+ 744 214 l 1
+ 724 194 702 183 683 183 c 0
+ 653 183 631 222 631 275 c 0
+ 631 334 664 398 732 469 c 1
+ 788 417 815 358 838 237 c 0
+ 851 184 868 159 907 136 c 1
+ 907 0 l 1
+ 862 18 830 49 814 89 c 1
+ 699 -125 439 -314 260 -314 c 0
+ 139 -314 50 -229 50 -112 c 0
+EndSplineSet
+EndChar
+
+StartChar: uniE008
+Encoding: 57352 57352 114
+Width: 880
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+50 -112 m 0
+ 50 69 259 313 413 313 c 0
+ 460 313 493 290 493 259 c 0
+ 493 217 440 160 368 125 c 1
+ 397 148 412 172 412 193 c 0
+ 412 218 390 236 360 236 c 0
+ 266 236 132 61 132 -62 c 0
+ 132 -135 180 -177 264 -177 c 0
+ 392 -177 566 -79 691 64 c 1
+ 692 154 686 237 673 314 c 1
+ 765 390 l 1
+ 772 348 776 317 778 284 c 0
+ 782 236 839 153 880 136 c 9
+ 880 0 l 1
+ 858 0 801 51 778 90 c 1
+ 758 1 l 1
+ 689 -145 418 -316 255 -316 c 0
+ 137 -316 50 -229 50 -112 c 0
+EndSplineSet
+EndChar
+
+StartChar: uniE009
+Encoding: 57353 57353 115
+Width: 550
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+50 17 m 1
+ 100 82 419 281 500 304 c 1
+ 500 258 l 1
+ 386 220 215 133 63 0 c 1
+ 50 17 l 1
+EndSplineSet
+EndChar
+
+StartChar: uniE00A
+Encoding: 57354 57354 116
+Width: 913
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+129 226 m 0
+ 129 155 201 120 346 120 c 0
+ 561 120 808 196 870 281 c 1
+ 866 268 864 254 864 239 c 0
+ 864 194 884 153 913 136 c 1
+ 913 0 l 1
+ 870 0 809 62 780 135 c 1
+ 685 58 484 0 312 0 c 0
+ 142 0 50 56 50 160 c 0
+ 50 280 171 419 275 419 c 0
+ 314 419 338 399 338 367 c 0
+ 338 326 300 267 245 223 c 1
+ 264 247 274 269 274 287 c 0
+ 274 312 254 329 223 329 c 0
+ 172 329 129 282 129 226 c 0
+EndSplineSet
+EndChar
+
+StartChar: uniE00B
+Encoding: 57355 57355 117
+Width: 202
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+109 433 m 1
+ 137 375 152 314 152 256 c 0
+ 152 141 96 47 0 0 c 1
+ 0 136 l 1
+ 44 146 77 193 77 247 c 0
+ 77 280 65 314 42 343 c 1
+ 109 433 l 1
+EndSplineSet
+Refer: 148 57357 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniE00C
+Encoding: 57356 57356 118
+Width: 175
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+175 136 m 1
+ 175 0 l 1
+ 134 22 104 50 82 86 c 1
+ 64 55 37 27 0 0 c 1
+ 0 136 l 1
+ 45 179 72 227 82 280 c 1
+ 89 232 119 185 175 136 c 1
+EndSplineSet
+Refer: 148 57357 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniFE96
+Encoding: 65174 65174 119
+Width: 913
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 312 0 basechar 0
+AnchorPoint: "top" 482 419 basechar 0
+LayerCount: 2
+Fore
+Refer: 87 57345 N 1 0 0 1 432 306 2
+Refer: 116 57354 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uniFE97
+Encoding: 65175 65175 120
+Width: 202
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 66 0 basechar 0
+AnchorPoint: "top" 78 589 basechar 0
+LayerCount: 2
+Fore
+Refer: 87 57345 N 1 0 0 1 -50 511 2
+Refer: 117 57355 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uniFE98
+Encoding: 65176 65176 121
+Width: 175
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 75 0 basechar 0
+AnchorPoint: "top" 47 467 basechar 0
+LayerCount: 2
+Fore
+Refer: 87 57345 N 1 0 0 1 -81 389 2
+Refer: 118 57356 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uniFE9A
+Encoding: 65178 65178 122
+Width: 913
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 312 0 basechar 0
+AnchorPoint: "top" 561 467 basechar 0
+LayerCount: 2
+Fore
+Refer: 88 57346 N 1 0 0 1 432 306 2
+Refer: 116 57354 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uniFE9B
+Encoding: 65179 65179 123
+Width: 202
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 65 0 basechar 0
+AnchorPoint: "top" 78 672 basechar 0
+LayerCount: 2
+Fore
+Refer: 88 57346 N 1 0 0 1 -51 511 2
+Refer: 117 57355 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uniFE9C
+Encoding: 65180 65180 124
+Width: 175
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 75 0 basechar 0
+AnchorPoint: "top" 38 550 basechar 0
+LayerCount: 2
+Fore
+Refer: 88 57346 N 1 0 0 1 -91 389 2
+Refer: 118 57356 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uniFEE7
+Encoding: 65255 65255 125
+Width: 202
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 64 0 basechar 0
+AnchorPoint: "top" 77 589 basechar 0
+LayerCount: 2
+Fore
+Refer: 86 57344 N 1 0 0 1 -12 511 2
+Refer: 117 57355 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uniFEE8
+Encoding: 65256 65256 126
+Width: 175
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 75 0 basechar 0
+AnchorPoint: "top" 27 467 basechar 0
+LayerCount: 2
+Fore
+Refer: 86 57344 N 1 0 0 1 -62 389 2
+Refer: 118 57356 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni0631
+Encoding: 1585 1585 127
+Width: 237
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "top" 67 304 basechar 0
+AnchorPoint: "bottom" 68 -158 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+147 320 m 1
+ 174 258 187 207 187 158 c 0
+ 187 42 115 -82 5 -158 c 1
+ -50 -56 l 1
+ 90 18 111 39 111 97 c 0
+ 111 150 96 202 69 247 c 1
+ 147 320 l 1
+EndSplineSet
+Substitution2: "'fina' Terminal Forms in Arabic lookup 3 subtable" uniFEAE
+EndChar
+
+StartChar: uni0633
+Encoding: 1587 1587 128
+Width: 1243
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 260 -310 basechar 0
+AnchorPoint: "top" 776 297 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+360 242 m 0
+ 266 242 132 66 132 -57 c 0
+ 132 -130 181 -171 266 -171 c 0
+ 461 -171 718 36 821 275 c 1
+ 830 221 861 171 907 136 c 1
+ 954 181 982 231 992 287 c 1
+ 999 236 1030 185 1085 136 c 1
+ 1109 170 1121 206 1121 240 c 0
+ 1121 275 1109 309 1085 344 c 1
+ 1152 434 l 1
+ 1179 383 1193 325 1193 264 c 0
+ 1193 158 1150 51 1085 0 c 1
+ 1046 20 1015 50 992 89 c 1
+ 960 36 940 10 919 0 c 1
+ 887 6 819 65 819 93 c 1
+ 666 -145 437 -310 260 -310 c 0
+ 139 -310 50 -224 50 -107 c 0
+ 50 76 258 319 415 319 c 0
+ 460 319 493 296 493 265 c 0
+ 493 223 440 166 368 131 c 1
+ 396 154 412 178 412 199 c 0
+ 412 224 390 242 360 242 c 0
+EndSplineSet
+Substitution2: "'init' Initial Forms in Arabic lookup 1 subtable" uniFEB3
+Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFEB4
+Substitution2: "'fina' Terminal Forms in Arabic lookup 3 subtable" uniFEB2
+EndChar
+
+StartChar: uni0636
+Encoding: 1590 1590 129
+Width: 1233
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 260 -316 basechar 0
+AnchorPoint: "top" 939 477 basechar 0
+LayerCount: 2
+Fore
+Refer: 86 57344 N 1 0 0 1 850 399 2
+Refer: 9 1589 N 1 0 0 1 0 0 3
+Substitution2: "'init' Initial Forms in Arabic lookup 1 subtable" uniFEBF
+Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFEC0
+Substitution2: "'fina' Terminal Forms in Arabic lookup 3 subtable" uniFEBE
+EndChar
+
+StartChar: uni06A1
+Encoding: 1697 1697 130
+Width: 893
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 323 -47 basechar 0
+AnchorPoint: "top" 732 466 basechar 0
+LayerCount: 2
+Back
+SplineSet
+697 456 m 1
+ 783 427 846 323 846 209 c 0
+ 846 171 839.025239134 137.985716119 826 115 c 0
+ 775 25 561 -47 342 -47 c 0
+ 149 -47 50 9 50 118 c 0
+ 50 230 153 362 240 362 c 0
+ 283 362 310 330 310 279 c 0
+ 310 218 271 176 215 176 c 1
+ 233 193 244 216 244 237 c 0
+ 244 265 226 282 195 282 c 0
+ 142 282 90 231 90 179 c 0
+ 90 109 184 73 364 73 c 0
+ 578 73 764 124 801 193 c 1
+ 783 272 713 357 666 357 c 1
+ 652 331 646 313 646 299 c 0
+ 646 279 658 270 684 270 c 0
+ 700.517647059 270 723.458823529 274.375 762 284 c 1
+ 772 196 l 1
+ 742.461538462 184.3 712 178 688 178 c 0
+ 640 178 611 201 611 239 c 0
+ 611 286 656 400 697 456 c 1
+EndSplineSet
+Fore
+SplineSet
+732 466 m 1
+ 811 395 843 274 843 113 c 1
+ 787 29 574 -47 323 -47 c 0
+ 128 -47 50 5 50 111 c 0
+ 50 232 171 372 277 372 c 0
+ 315 372 339 352 339 321 c 0
+ 339 279 301 221 245 176 c 1
+ 264 200 274 222 274 240 c 0
+ 274 265 255 282 225 282 c 0
+ 171 282 130 233 130 169 c 0
+ 130 105 202 73 369 73 c 0
+ 500 73 660 110 763 158 c 1
+ 764 240 731 321 683 353 c 1
+ 662 340 650 318 650 297 c 0
+ 650 278 660 266 674 266 c 0
+ 685 266 697 273 711 288 c 1
+ 743 210 l 17
+ 732 195 704 179 685 179 c 0
+ 653 179 631 217 631 271 c 0
+ 631 331 665 396 732 466 c 1
+EndSplineSet
+EndChar
+
+StartChar: uni062C
+Encoding: 1580 1580 131
+Width: 513
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 102 -209 basechar 0
+AnchorPoint: "top" 257 355 basechar 0
+LayerCount: 2
+Fore
+Refer: 86 57344 N 1 0 0 1 235 -161 2
+Refer: 8 1581 N 1 0 0 1 0 0 3
+Substitution2: "'init' Initial Forms in Arabic lookup 1 subtable" uniFE9F
+Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFEA0
+Substitution2: "'fina' Terminal Forms in Arabic lookup 3 subtable" uniFE9E
+EndChar
+
+StartChar: uni062E
+Encoding: 1582 1582 132
+Width: 513
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 102 -209 basechar 0
+AnchorPoint: "top" 219 529 basechar 0
+LayerCount: 2
+Fore
+Refer: 86 57344 N 1 0 0 1 130 451 2
+Refer: 8 1581 N 1 0 0 1 0 0 3
+Substitution2: "'init' Initial Forms in Arabic lookup 1 subtable" uniFEA7
+Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFEA8
+Substitution2: "'fina' Terminal Forms in Arabic lookup 3 subtable" uniFEA6
+EndChar
+
+StartChar: uni066F
+Encoding: 1647 1647 133
+Width: 899
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 260 -314 basechar 0
+AnchorPoint: "top" 732 469 basechar 0
+LayerCount: 2
+Back
+SplineSet
+550 278 m 1
+ 641.771812081 245.360323887 709 128.307692308 709 0 c 0
+ 709 -73.7629310345 495 -314 266.66522359 -314 c 0
+ 142 -314 51 -242.387878788 51 -103 c 0
+ 51 37 168.636842105 202 268 202 c 0
+ 311 202 338 170 338 119 c 0
+ 338 58 299 16 243 16 c 1
+ 261 33 272 56 272 77 c 0
+ 272 105 254 122 223 122 c 0
+ 156.371428571 122 91 40.7961165049 91 -42 c 0
+ 91 -131.150943396 176.573445539 -177 274.571276901 -177 c 0
+ 430.485063832 -177 609.327384032 -60.9442896936 654 15 c 1
+ 636 94 566 179 519 179 c 1
+ 505 153 499 135 499 121 c 0
+ 499 101 511 92 537 92 c 0
+ 554 92 576 96 615 106 c 1
+ 625 18 l 1
+ 595 6 565 0 541 0 c 0
+ 493 0 464 23 464 61 c 0
+ 464 108 509 222 550 278 c 1
+EndSplineSet
+Fore
+SplineSet
+50 -112 m 0
+ 50 70 259 313 415 313 c 0
+ 460 313 492 290 492 259 c 0
+ 492 217 439 160 368 125 c 1
+ 396 148 412 172 412 193 c 0
+ 412 218 390 237 360 237 c 0
+ 266 237 132 62 132 -61 c 0
+ 132 -135 182 -177 270 -177 c 0
+ 434 -177 639 -34 763 167 c 1
+ 764 171 764 177 764 182 c 0
+ 764 243 725 328 683 357 c 1
+ 663 344 650 322 650 300 c 0
+ 650 281 660 269 674 269 c 0
+ 685 269 695 275 711 291 c 1
+ 744 214 l 1
+ 724 194 702 183 683 183 c 0
+ 653 183 631 222 631 275 c 0
+ 631 334 664 398 732 469 c 1
+ 795 411 822 342 849 170 c 1
+ 778 -50 478 -314 260 -314 c 0
+ 139 -314 50 -229 50 -112 c 0
+EndSplineSet
+EndChar
+
+StartChar: uni064A
+Encoding: 1610 1610 134
+Width: 693
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 278 -274 basechar 0
+AnchorPoint: "top" 346 425 basechar 0
+LayerCount: 2
+Fore
+Refer: 87 57345 N 1 0 0 1 150 -274 2
+Refer: 17 1609 N 1 0 0 1 0 0 3
+Substitution2: "'init' Initial Forms in Arabic lookup 1 subtable" uniFBFE
+Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFBFF
+Substitution2: "'fina' Terminal Forms in Arabic lookup 3 subtable" uniFEF2
+EndChar
+
+StartChar: uni0630
+Encoding: 1584 1584 135
+Width: 390
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 159 -40 basechar 0
+AnchorPoint: "top" 193 582 basechar 0
+LayerCount: 2
+Fore
+Refer: 86 57344 N 1 0 0 1 104 504 2
+Refer: 6 1583 N 1 0 0 1 0 0 3
+Substitution2: "'fina' Terminal Forms in Arabic lookup 3 subtable" uniFEAC
+EndChar
+
+StartChar: uniFED7
+Encoding: 65239 65239 136
+Width: 306
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 116 0 basechar 0
+AnchorPoint: "top" 112 586 basechar 0
+LayerCount: 2
+Fore
+Refer: 87 57345 N 1 0 0 1 -16 508 2
+Refer: 91 57349 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uniFED8
+Encoding: 65240 65240 137
+Width: 323
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 149 -1 basechar 0
+AnchorPoint: "top" 112 586 basechar 0
+LayerCount: 2
+Fore
+Refer: 87 57345 N 1 0 0 1 -16 508 2
+Refer: 112 57350 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uniFB8F
+Encoding: 64399 64399 138
+Width: 890
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 291 -66 basechar 0
+AnchorPoint: "top" 844 770 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+556 573 m 1
+ 729 762 913 888 1133 968 c 1
+ 1135 827 l 1
+ 943 773 766 671 600 519 c 1
+ 556 573 l 1
+129 150 m 0
+ 129 86 203 53 345 53 c 0
+ 484 53 655 88 766 140 c 1
+ 751 233 690 314 604 359 c 1
+ 604 513 l 1
+ 711 424 771 343 797 251 c 1
+ 814 203 862 145 890 136 c 1
+ 890 0 l 17
+ 870 0 804 58 791 82 c 1
+ 740 18 535 -66 291 -66 c 0
+ 128 -66 50 -15 50 92 c 0
+ 50 213 171 353 276 353 c 0
+ 314 353 338 333 338 301 c 0
+ 338 259 300 200 245 156 c 1
+ 264 180 274 202 274 220 c 0
+ 274 246 254 263 224 263 c 0
+ 170 263 129 214 129 150 c 0
+EndSplineSet
+EndChar
+
+StartChar: uniFB90
+Encoding: 64400 64400 139
+Width: 356
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 266 0 basechar 0
+AnchorPoint: "top" 266 774 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+-22 576 m 1
+ 152 766 336 892 555 972 c 1
+ 556 830 l 1
+ 364 776 187 675 22 523 c 1
+ -22 576 l 1
+188 146 m 1
+ 173 236 113 316 26 362 c 1
+ 26 516 l 1
+ 170 396 233 284 233 149 c 0
+ 233 136 232 123 231 110 c 1
+ 210 58 91 1 0 0 c 1
+ 0 136 l 1
+ 22 136 51 136 81 136 c 0
+ 125 136 159 139 188 146 c 1
+EndSplineSet
+Refer: 148 57357 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniFB91
+Encoding: 64401 64401 140
+Width: 311
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 266 0 basechar 0
+AnchorPoint: "top" 266 774 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+-23 576 m 1
+ 150 764 335 891 555 971 c 1
+ 556 830 l 1
+ 364 776 187 674 21 522 c 1
+ -23 576 l 1
+214 84 m 1
+ 174 41 72 1 0 0 c 1
+ 0 136 l 1
+ 22 136 50 136 80 136 c 0
+ 124 136 158 139 187 145 c 1
+ 172 236 112 317 26 362 c 1
+ 26 516 l 1
+ 126 433 187 349 218 254 c 0
+ 233 209 282 148 311 139 c 1
+ 311 4 l 1
+ 267 28 233 56 214 84 c 1
+EndSplineSet
+Refer: 148 57357 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni06CC
+Encoding: 1740 1740 141
+Width: 693
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 278 -139 basechar 0
+AnchorPoint: "top" 346 425 basechar 0
+LayerCount: 2
+Fore
+Refer: 17 1609 N 1 0 0 1 0 0 3
+Substitution2: "'init' Initial Forms in Arabic lookup 1 subtable" uniFBFE
+Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFBFF
+Substitution2: "'fina' Terminal Forms in Arabic lookup 3 subtable" uniFBFD
+EndChar
+
+StartChar: uniFBFD
+Encoding: 64509 64509 142
+Width: 600
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 279 -143 basechar 0
+AnchorPoint: "top" 325 422 basechar 0
+LayerCount: 2
+Fore
+Refer: 72 65264 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uniFBFE
+Encoding: 64510 64510 143
+Width: 202
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 0 -126 basechar 0
+AnchorPoint: "top" 76 433 basechar 0
+LayerCount: 2
+Fore
+Refer: 87 57345 N 1 0 0 1 -128 -126 2
+Refer: 117 57355 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uniFBFF
+Encoding: 64511 64511 144
+Width: 175
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 0 -126 basechar 0
+AnchorPoint: "top" 32 280 basechar 0
+LayerCount: 2
+Fore
+Refer: 87 57345 N 1 0 0 1 -128 -126 2
+Refer: 118 57356 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uniFEF2
+Encoding: 65266 65266 145
+Width: 600
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 286 -264 basechar 0
+AnchorPoint: "top" 325 422 basechar 0
+LayerCount: 2
+Fore
+Refer: 87 57345 N 1 0 0 1 158 -264 2
+Refer: 72 65264 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uniFEF3
+Encoding: 65267 65267 146
+Width: 202
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 0 -126 basechar 0
+AnchorPoint: "top" 76 433 basechar 0
+LayerCount: 2
+Fore
+Refer: 87 57345 N 1 0 0 1 -128 -126 2
+Refer: 117 57355 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uniFEF4
+Encoding: 65268 65268 147
+Width: 175
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 0 -126 basechar 0
+AnchorPoint: "top" 32 280 basechar 0
+LayerCount: 2
+Fore
+Refer: 87 57345 N 1 0 0 1 -128 -126 2
+Refer: 118 57356 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uniE00D
+Encoding: 57357 57357 148
+Width: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+-25 68 m 0
+ -25 106 -14 136 0 136 c 0
+ 14 136 25 106 25 68 c 0
+ 25 30 14 0 0 0 c 0
+ -14 0 -25 30 -25 68 c 0
+EndSplineSet
+EndChar
+
+StartChar: uni0640
+Encoding: 1600 1600 149
+Width: 200
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 100 0 basechar 0
+AnchorPoint: "top" 100 136 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+0 136 m 1
+ 200 136 l 1
+ 200 0 l 1
+ 0 0 l 1
+ 0 136 l 1
+EndSplineSet
+Refer: 148 57357 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniFB58
+Encoding: 64344 64344 150
+Width: 202
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 1 -209 basechar 0
+AnchorPoint: "top" 76 433 basechar 0
+LayerCount: 2
+Fore
+Refer: 89 57347 N 1 0 0 1 -128 -209 2
+Refer: 117 57355 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uniFB59
+Encoding: 64345 64345 151
+Width: 175
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "top" 32 280 basechar 0
+AnchorPoint: "bottom" 1 -209 basechar 0
+LayerCount: 2
+Fore
+Refer: 89 57347 N 1 0 0 1 -128 -209 2
+Refer: 118 57356 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uniFB57
+Encoding: 64343 64343 152
+Width: 913
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 386 -249 basechar 0
+AnchorPoint: "top" 482 419 basechar 0
+LayerCount: 2
+Fore
+Refer: 89 57347 N 1 0 0 1 257 -249 2
+Refer: 116 57354 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni067E
+Encoding: 1662 1662 153
+Width: 888
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 386 -249 basechar 0
+AnchorPoint: "top" 459 419 basechar 0
+LayerCount: 2
+Fore
+Refer: 89 57347 N 1 0 0 1 257 -249 2
+Refer: 83 1646 N 1 0 0 1 0 0 3
+Substitution2: "'init' Initial Forms in Arabic lookup 1 subtable" uniFB58
+Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFB59
+Substitution2: "'fina' Terminal Forms in Arabic lookup 3 subtable" uniFB57
+EndChar
+
+StartChar: uniFB7B
+Encoding: 64379 64379 154
+Width: 461
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 214 -206 basechar 0
+AnchorPoint: "top" 256 355 basechar 0
+LayerCount: 2
+Fore
+Refer: 89 57347 N 1 0 0 1 199 -204 2
+Refer: 105 65186 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uniFB7C
+Encoding: 64380 64380 155
+Width: 369
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 169 -244 basechar 0
+AnchorPoint: "top" 122 355 basechar 0
+LayerCount: 2
+Fore
+Refer: 89 57347 N 1 0 0 1 40 -244 2
+Refer: 106 65187 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uniFB7D
+Encoding: 64381 64381 156
+Width: 318
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 169 -244 basechar 0
+AnchorPoint: "top" 123 354 basechar 0
+LayerCount: 2
+Fore
+Refer: 89 57347 N 1 0 0 1 40 -244 2
+Refer: 107 65188 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uniFE94
+Encoding: 65172 65172 157
+Width: 394
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 222 0 basechar 0
+AnchorPoint: "top" 186 597 basechar 0
+LayerCount: 2
+Fore
+Refer: 87 57345 N 1 0 0 1 58 519 2
+Refer: 71 65258 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniFE8A
+Encoding: 65162 65162 158
+Width: 600
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 279 -143 basechar 0
+AnchorPoint: "top" 528 400 basechar 0
+LayerCount: 2
+Fore
+Refer: 167 1620 N 1 0 0 1 528 248 2
+Refer: 72 65264 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uniFE8B
+Encoding: 65163 65163 159
+Width: 202
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 87 0 basechar 0
+AnchorPoint: "top" 62 604 basechar 0
+LayerCount: 2
+Fore
+Refer: 167 1620 N 1 0 0 1 62 452 2
+Refer: 117 57355 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uniFE8C
+Encoding: 65164 65164 160
+Width: 175
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 72 0 basechar 0
+AnchorPoint: "top" 62 466 basechar 0
+LayerCount: 2
+Fore
+Refer: 167 1620 N 1 0 0 1 62 314 2
+Refer: 118 57356 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni0626
+Encoding: 1574 1574 161
+Width: 693
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 278 -139 basechar 0
+AnchorPoint: "top" 470 559 basechar 0
+LayerCount: 2
+Fore
+Refer: 167 1620 N 1 0 0 1 470 407 2
+Refer: 17 1609 N 1 0 0 1 0 0 3
+Substitution2: "'init' Initial Forms in Arabic lookup 1 subtable" uniFE8B
+Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFE8C
+Substitution2: "'fina' Terminal Forms in Arabic lookup 3 subtable" uniFE8A
+EndChar
+
+StartChar: uni0624
+Encoding: 1572 1572 162
+Width: 311
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 168 -157 basechar 0
+AnchorPoint: "top" 178 579 basechar 0
+LayerCount: 2
+Fore
+Refer: 167 1620 N 1 0 0 1 161 427 2
+Refer: 16 1608 N 1 0 0 1 0 0 2
+Substitution2: "'fina' Terminal Forms in Arabic lookup 3 subtable" uniFE86
+EndChar
+
+StartChar: uni0623
+Encoding: 1571 1571 163
+Width: 223
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 102 0 basechar 0
+AnchorPoint: "top" 40 874 basechar 0
+LayerCount: 2
+Fore
+Refer: 167 1620 N 1 0 0 1 40 722 2
+Refer: 2 1575 N 1 0 0 1 0 0 3
+Substitution2: "'fina' Terminal Forms in Arabic lookup 3 subtable" uniFE84
+EndChar
+
+StartChar: uni0625
+Encoding: 1573 1573 164
+Width: 223
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 90 -227 basechar 0
+AnchorPoint: "top" 73 697 basechar 0
+LayerCount: 2
+Fore
+Refer: 167 1620 N 1 0 0 1 90 -307 2
+Refer: 2 1575 N 1 0 0 1 0 0 3
+Substitution2: "'fina' Terminal Forms in Arabic lookup 3 subtable" uniFE88
+EndChar
+
+StartChar: uni0621
+Encoding: 1569 1569 165
+Width: 476
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 238 -37 basechar 0
+AnchorPoint: "top" 227 241 basechar 0
+LayerCount: 2
+Fore
+Refer: 167 1620 N 1.2 0 0 1.2 238 -37 2
+EndChar
+
+StartChar: uni0629
+Encoding: 1577 1577 166
+Width: 393
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 143 -5 basechar 0
+AnchorPoint: "top" 240 546 basechar 0
+LayerCount: 2
+Fore
+Refer: 87 57345 N 1 0 0 1 112 468 2
+Refer: 18 1607 N 1 0 0 1 0 0 2
+Substitution2: "'fina' Terminal Forms in Arabic lookup 3 subtable" uniFE94
+EndChar
+
+StartChar: uni0654
+Encoding: 1620 1620 167
+Width: 0
+GlyphClass: 4
+Flags: HW
+HStem: 0 21G<-82.3846 -34.5> 181 51<-53.6436 6.30392>
+VStem: -107 40<95.0914 168.173> -9 31<159 216>
+AnchorPoint: "top_lig" 0 -120 mark 0
+AnchorPoint: "top" 0 -120 mark 0
+AnchorPoint: "top_mark" 0 40 mark 0
+AnchorPoint: "top_mark" 0 352 basemark 0
+LayerCount: 2
+Fore
+SplineSet
+-67 0 m 1
+ -87 26 l 1
+ -79 33 -71 40 -63 47 c 1
+ -92 53 -107 72 -107 102 c 0
+ -107 159 -52 232 -9 232 c 0
+ 11 232 22 224 22 208 c 0
+ 22 188 4 159 -22 136 c 1
+ -14 146 -9 155 -9 163 c 0
+ -9 173 -18 181 -29 181 c 0
+ -48 181 -67 155 -67 128 c 0
+ -67 104 -50 89 -19 89 c 1
+ 7 115 29 141 49 168 c 1
+ 107 161 l 1
+ 49 88 -2 41 -67 0 c 1
+EndSplineSet
+EndChar
+
+StartChar: uni0643
+Encoding: 1603 1603 168
+Width: 906
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 339 -42 basechar 0
+AnchorPoint: "top" 514 384 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+130 174 m 0
+ 130 110 203 77 344 77 c 0
+ 481 77 649 112 768 165 c 1
+ 767 264 741 410 708 508 c 1
+ 807 587 l 1
+ 840 466 856 341 856 213 c 0
+ 856 180 838 121 819 93 c 0
+ 768 14 568 -42 339 -42 c 0
+ 148 -42 50 12 50 116 c 0
+ 50 237 171 377 276 377 c 0
+ 314 377 338 357 338 325 c 0
+ 338 283 300 224 245 180 c 1
+ 264 204 274 226 274 244 c 0
+ 274 270 254 287 224 287 c 0
+ 170 287 130 238 130 174 c 0
+EndSplineSet
+Refer: 167 1620 N 1 0 0 1 514 232 2
+Substitution2: "'init' Initial Forms in Arabic lookup 1 subtable" uniFB90
+Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFB91
+Substitution2: "'fina' Terminal Forms in Arabic lookup 3 subtable" uniFEDA
+EndChar
+
+StartChar: uni06C0
+Encoding: 1728 1728 169
+Width: 393
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 143 -5 basechar 0
+AnchorPoint: "top" 216 598 basechar 0
+LayerCount: 2
+Fore
+Refer: 167 1620 N 1 0 0 1 216 446 2
+Refer: 18 1607 N 1 0 0 1 0 0 2
+Substitution2: "'fina' Terminal Forms in Arabic lookup 3 subtable" uniFBA5
+EndChar
+
+StartChar: uniFBA5
+Encoding: 64421 64421 170
+Width: 394
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 222 0 basechar 0
+AnchorPoint: "top" 160 640 basechar 0
+LayerCount: 2
+Fore
+Refer: 167 1620 N 1 0 0 1 160 488 2
+Refer: 71 65258 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniFE82
+Encoding: 65154 65154 171
+Width: 224
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 62 0 basechar 0
+AnchorPoint: "top" 36 913 basechar 0
+LayerCount: 2
+Fore
+Refer: 192 1619 N 1 0 0 1 36 741 2
+Refer: 40 65166 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uniFE84
+Encoding: 65156 65156 172
+Width: 224
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 74 0 basechar 0
+AnchorPoint: "top" 32 843 basechar 0
+LayerCount: 2
+Fore
+Refer: 167 1620 N 1 0 0 1 32 691 2
+Refer: 40 65166 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uniFE86
+Encoding: 65158 65158 173
+Width: 311
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 189 -157 basechar 0
+AnchorPoint: "top" 178 579 basechar 0
+LayerCount: 2
+Fore
+Refer: 167 1620 N 1 0 0 1 161 427 2
+Refer: 61 65262 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uniFE88
+Encoding: 65160 65160 174
+Width: 224
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 114 -239 basechar 0
+AnchorPoint: "top" 73 697 basechar 0
+LayerCount: 2
+Fore
+Refer: 167 1620 N 1 0 0 1 114 -319 2
+Refer: 40 65166 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni0698
+Encoding: 1688 1688 175
+Width: 237
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 68 -158 basechar 0
+AnchorPoint: "top" 109 558 basechar 0
+LayerCount: 2
+Fore
+Refer: 88 57346 N 1 0 0 1 -20 397 2
+Refer: 127 1585 N 1 0 0 1 0 0 3
+Substitution2: "'fina' Terminal Forms in Arabic lookup 3 subtable" uniFB8B
+EndChar
+
+StartChar: uniFB8B
+Encoding: 64395 64395 176
+Width: 273
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom" 112 -174 basechar 0
+AnchorPoint: "top" 109 558 basechar 0
+LayerCount: 2
+Fore
+Refer: 88 57346 N 1 0 0 1 -20 397 2
+Refer: 48 65198 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni061F
+Encoding: 1567 1567 177
+Width: 384
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+271 655 m 0
+ 283 655 334 652 334 606 c 0
+ 334 565 295 504 241 458 c 1
+ 262 485 270 506 270 523 c 0
+ 270 550 248 564 222 564 c 0
+ 180 564 125 528 125 452 c 0
+ 125 399 174 385 218 385 c 0
+ 228 385 239 386 248 387 c 1
+ 248 288 245 242 235 168 c 1
+ 164 168 l 1
+ 164 286 l 1
+ 82 299 50 346 50 401 c 0
+ 50 510 173 655 271 655 c 0
+EndSplineSet
+Refer: 211 46 N 1 0 0 1 69 0 2
+EndChar
+
+StartChar: exclam
+Encoding: 33 33 178
+Width: 244
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+153 168 m 1
+ 82 168 l 1
+ 84 224 84 238 84 261 c 0
+ 84 379 73 483 50 581 c 1
+ 147 658 l 1
+ 164 577 172 492 172 403 c 0
+ 172 325 166 247 153 168 c 1
+EndSplineSet
+Refer: 211 46 N 1 0 0 1 -11 0 2
+EndChar
+
+StartChar: uniFEFB
+Encoding: 65275 65275 179
+Width: 397
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom_lig" 73 0 baselig 1
+AnchorPoint: "bottom_lig" 267 0 baselig 0
+AnchorPoint: "top_lig" 73 697 baselig 1
+AnchorPoint: "top_lig" 267 697 baselig 0
+LayerCount: 2
+Fore
+SplineSet
+261 188 m 0
+ 261 280 212 476 157 606 c 1
+ 267 697 l 1
+ 306 590 316 538 344 277 c 0
+ 346 256 347 235 347 215 c 0
+ 347 76 294 0 196 0 c 2
+ 67 0 l 1
+ 69 31 70 60 70 90 c 0
+ 70 272 35 442 -36 606 c 1
+ 73 697 l 1
+ 131 530 160 371 160 218 c 0
+ 160 190 159 162 157 135 c 1
+ 196 135 l 2
+ 231 135 261 160 261 188 c 0
+EndSplineSet
+Substitution2: "'fina' Terminal Forms in Arabic lookup 3 subtable" uniFEFC
+EndChar
+
+StartChar: uniFEFC
+Encoding: 65276 65276 180
+Width: 384
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "bottom_lig" 74 0 baselig 1
+AnchorPoint: "bottom_lig" 261 0 baselig 0
+AnchorPoint: "top_lig" 74 697 baselig 1
+AnchorPoint: "top_lig" 261 697 baselig 0
+LayerCount: 2
+Fore
+SplineSet
+255 186 m 0
+ 255 280 207 477 152 606 c 1
+ 261 697 l 1
+ 320 536 345 411 345 277 c 0
+ 345 196 358 148 384 135 c 1
+ 384 0 l 1
+ 366 0 317 45 287 90 c 1
+ 270 54 194 7 145 0 c 1
+ 68 0 l 1
+ 70 30 71 60 71 89 c 0
+ 71 271 36 441 -36 606 c 1
+ 74 697 l 1
+ 132 531 161 372 161 219 c 0
+ 161 191 160 163 158 136 c 1
+ 203 136 l 2
+ 233 136 255 157 255 186 c 0
+EndSplineSet
+EndChar
+
+StartChar: uni0664
+Encoding: 1636 1636 181
+Width: 333
+VWidth: 780
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+117 120 m 0
+ 117 97 136 80 162 80 c 0
+ 188 80 213 96 218 116 c 1
+ 283 116 l 1
+ 277 51 214 1 138 1 c 0
+ 84 1 50 38 50 97 c 0
+ 50 141 71 185 112 222 c 1
+ 75 236 57 263 57 300 c 0
+ 57 384 154 490 231 490 c 0
+ 263 490 281 476 281 451 c 0
+ 281 418 254 371 213 337 c 1
+ 229 357 237 374 237 389 c 0
+ 237 409 222 422 199 422 c 0
+ 155 422 123 380 123 327 c 0
+ 123 300 143 285 184 285 c 0
+ 193 285 202 285 213 287 c 1
+ 213 212 l 1
+ 163 204 117 160 117 120 c 0
+EndSplineSet
+EndChar
+
+StartChar: uni0665
+Encoding: 1637 1637 182
+Width: 380
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+188 499 m 1
+ 268 415 330 257 330 136 c 0
+ 330 95 323 59 309 30 c 1
+ 274 10 237 0 199 0 c 0
+ 155 0 99 13 72 30 c 1
+ 58 64 50 102 50 142 c 0
+ 50 258 111 362 180 362 c 0
+ 186 362 193 361 198 359 c 1
+ 185 374 172 383 158 388 c 1
+ 188 499 l 1
+111 106 m 1
+ 141 98 170 94 197 94 c 0
+ 224 94 251 97 279 105 c 1
+ 281 113 281 123 281 133 c 0
+ 281 185 262 255 233 309 c 1
+ 233 307 233 307 233 305 c 0
+ 233 275 220 236 198 201 c 1
+ 198 206 198 211 198 215 c 0
+ 198 252 187 273 168 273 c 0
+ 135 273 103 217 103 159 c 0
+ 103 142 106 124 111 106 c 1
+EndSplineSet
+EndChar
+
+StartChar: uni0666
+Encoding: 1638 1638 183
+Width: 346
+VWidth: 780
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+176 0 m 1
+ 167 63 162 123 162 179 c 0
+ 162 259 171 334 191 408 c 1
+ 172 406 153 405 133 405 c 0
+ 109 405 82 406 50 408 c 1
+ 90 499 l 1
+ 139 493 187 489 216 489 c 1
+ 297 428 l 1
+ 246 312 220 183 220 41 c 0
+ 220 27 220 14 221 0 c 1
+ 176 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni064B
+Encoding: 1611 1611 184
+Width: 0
+GlyphClass: 4
+Flags: HW
+HStem: 0 174
+VStem: -138 276
+AnchorPoint: "top_lig" 0 -120 mark 0
+AnchorPoint: "top" 0 -120 mark 0
+AnchorPoint: "top_mark" 0 40 mark 0
+AnchorPoint: "top_mark" 0 294 basemark 0
+LayerCount: 2
+Fore
+SplineSet
+-36 0 m 1
+ -54 26 l 1
+ -2 71 41 122 80 174 c 1
+ 138 161 l 1
+ 86 96 35 45 -36 0 c 1
+-120 0 m 1
+ -138 26 l 1
+ -86 71 -43 122 -4 174 c 1
+ 54 161 l 1
+ 2 96 -49 45 -120 0 c 1
+EndSplineSet
+EndChar
+
+StartChar: uni064C
+Encoding: 1612 1612 185
+Width: 0
+GlyphClass: 4
+Flags: HW
+HStem: 0 45<-37.162 35.0731> 19 33<-72.4501 0.980705> 71 52<-26.8706 11.0511>
+VStem: -42 15<123.697 163.51> 43 38<52.5703 151.353>
+AnchorPoint: "top_lig" 0 -120 mark 0
+AnchorPoint: "top" 0 -120 mark 0
+AnchorPoint: "top_mark" 0 40 mark 0
+AnchorPoint: "top_mark" 0 359 basemark 0
+LayerCount: 2
+Fore
+SplineSet
+-15 71 m 0xb8
+ -30 71 -42 97 -42 128 c 0
+ -42 164 -24 198 17 239 c 1
+ 56 200 81 141 81 88 c 0
+ 81 33 54 0 10 0 c 0xb8
+ -12 0 -19 19 -41 19 c 0
+ -61 19 -70 16 -80 6 c 1
+ -81 9 -81 11 -81 14 c 0
+ -81 35 -60 52 -35 52 c 0x78
+ -21 52 -8 45 6 45 c 0
+ 26 45 43 69 43 97 c 0
+ 43 133 18 170 -9 174 c 1
+ -20 167 -27 154 -27 141 c 0
+ -27 130 -23 123 -16 123 c 0
+ -10 123 -3 127 4 136 c 1
+ 23 90 l 1
+ 14 78 0 71 -15 71 c 0xb8
+EndSplineSet
+EndChar
+
+StartChar: uni064D
+Encoding: 1613 1613 186
+Width: 0
+GlyphClass: 4
+Flags: HW
+AnchorPoint: "bottom_lig" 0 120 mark 0
+AnchorPoint: "bottom" 0 120 mark 0
+AnchorPoint: "bottom_mark" 0 -40 mark 0
+AnchorPoint: "bottom_mark" 0 -275 basemark 0
+LayerCount: 2
+Fore
+SplineSet
+-64 -155 m 1
+ -77 -123 l 1
+ -12 -97 45 -65 97 -26 c 1
+ 155 -52 l 1
+ 90 -97 13 -129 -64 -155 c 1
+-142 -129 m 1
+ -155 -97 l 1
+ -90 -71 -33 -39 19 0 c 1
+ 71 -26 l 1
+ 6 -71 -65 -103 -142 -129 c 1
+EndSplineSet
+EndChar
+
+StartChar: uni064E
+Encoding: 1614 1614 187
+Width: 0
+GlyphClass: 4
+Flags: HW
+HStem: 0 174
+VStem: -96 192
+AnchorPoint: "top_lig" 0 -120 mark 0
+AnchorPoint: "top" 0 -120 mark 0
+AnchorPoint: "top_mark" 0 40 mark 0
+AnchorPoint: "top_mark" 0 294 basemark 0
+LayerCount: 2
+Fore
+SplineSet
+-78 0 m 1
+ -96 26 l 1
+ -44 71 -1 122 38 174 c 1
+ 96 161 l 1
+ 44 96 -7 45 -78 0 c 1
+EndSplineSet
+EndChar
+
+StartChar: uni064F
+Encoding: 1615 1615 188
+Width: 0
+GlyphClass: 4
+Flags: HW
+HStem: 0 21G<-24.6154 14> 71 51<-49.8818 -8.82399>
+VStem: -62 12<123.528 158.467> 19 43<51.8848 154.633>
+AnchorPoint: "top_lig" 0 -120 mark 0
+AnchorPoint: "top" 0 -120 mark 0
+AnchorPoint: "top_mark" 0 40 mark 0
+AnchorPoint: "top_mark" 0 359 basemark 0
+LayerCount: 2
+Fore
+SplineSet
+-36 71 m 0
+ -51 71 -62 97 -62 128 c 0
+ -62 164 -44 198 -3 239 c 1
+ 38 198 62 149 62 107 c 0
+ 62 63 38 27 -10 0 c 1
+ -29 26 l 1
+ 2 49 19 78 19 106 c 0
+ 19 135 1 160 -29 174 c 1
+ -42 166 -50 152 -50 138 c 0
+ -50 128 -46 122 -39 122 c 0
+ -32 122 -27 125 -16 136 c 1
+ 3 90 l 1
+ -7 80 -26 71 -36 71 c 0
+EndSplineSet
+EndChar
+
+StartChar: uni0650
+Encoding: 1616 1616 189
+Width: 0
+GlyphClass: 4
+Flags: HW
+HStem: -129 129
+VStem: -113 226
+AnchorPoint: "bottom_lig" 0 120 mark 0
+AnchorPoint: "bottom" 0 120 mark 0
+AnchorPoint: "bottom_mark" 0 -40 mark 0
+AnchorPoint: "bottom_mark" 0 -249 basemark 0
+LayerCount: 2
+Fore
+SplineSet
+-100 -129 m 1
+ -113 -97 l 1
+ -48 -71 9 -39 61 0 c 1
+ 113 -26 l 1
+ 48 -71 -23 -103 -100 -129 c 1
+EndSplineSet
+EndChar
+
+StartChar: uni0651
+Encoding: 1617 1617 190
+Width: 0
+GlyphClass: 4
+Flags: HW
+HStem: 0 168
+AnchorPoint: "top_lig" 0 -120 mark 0
+AnchorPoint: "top" 0 -120 mark 0
+AnchorPoint: "top_mark" 0 40 mark 0
+AnchorPoint: "top_mark" 0 288 basemark 0
+LayerCount: 2
+Fore
+SplineSet
+57 0 m 1
+ 25 19 12 39 -1 58 c 1
+ -14 32 -33 19 -59 0 c 1
+ -136 39 -136 97 -123 168 c 1
+ -117 129 -91 96 -59 64 c 1
+ -27 96 -7 129 -1 168 c 1
+ 5 136 18 96 57 64 c 1
+ 89 96 116 136 122 168 c 1
+ 135 110 141 32 57 0 c 1
+EndSplineSet
+EndChar
+
+StartChar: uni0652
+Encoding: 1618 1618 191
+Width: 0
+GlyphClass: 4
+Flags: HW
+AnchorPoint: "top_lig" 0 -120 mark 0
+AnchorPoint: "top" 0 -120 mark 0
+AnchorPoint: "top_mark" 0 40 mark 0
+AnchorPoint: "top_mark" 0 230 basemark 0
+LayerCount: 2
+Fore
+SplineSet
+3 110 m 0
+ 35 110 55 91 55 59 c 0
+ 55 25 33 0 3 0 c 0
+ -29 0 -55 27 -55 59 c 0
+ -55 89 -31 110 3 110 c 0
+-6 85 m 0
+ -21 85 -33 77 -33 65 c 0
+ -33 58 -29 54 -23 54 c 0
+ -19 54 -15 56 -10 59 c 1
+ 3 33 l 1
+ 17 35 26 43 26 53 c 0
+ 26 69 11 85 -6 85 c 0
+EndSplineSet
+EndChar
+
+StartChar: uni0653
+Encoding: 1619 1619 192
+Width: 0
+GlyphClass: 4
+Flags: HW
+AnchorPoint: "top_lig" 0 -120 mark 0
+AnchorPoint: "top" 0 -120 mark 0
+AnchorPoint: "top_mark" 0 40 mark 0
+AnchorPoint: "top_mark" 0 292 basemark 0
+LayerCount: 2
+Fore
+SplineSet
+-20 0 m 0
+ -86 0 -136 29 -136 67 c 0
+ -136 111 -64 158 25 172 c 1
+ -17 156 -40 133 -40 110 c 0
+ -40 84 -10 63 28 63 c 0
+ 69 63 108 86 136 126 c 1
+ 136 44 l 1
+ 89 16 32 0 -20 0 c 0
+EndSplineSet
+EndChar
+
+StartChar: uni0655
+Encoding: 1621 1621 193
+Width: 0
+GlyphClass: 4
+Flags: HW
+AnchorPoint: "bottom_lig" 0 120 mark 0
+AnchorPoint: "bottom" 0 120 mark 0
+AnchorPoint: "bottom_mark" 0 -40 mark 0
+AnchorPoint: "bottom_mark" 0 -352 basemark 0
+LayerCount: 2
+Fore
+Refer: 167 1620 N 1 0 0 1 0 -232 2
+EndChar
+
+StartChar: uni0656
+Encoding: 1622 1622 194
+Width: 0
+GlyphClass: 4
+Flags: HW
+AnchorPoint: "bottom_lig" 0 120 mark 0
+AnchorPoint: "bottom" 0 120 mark 0
+AnchorPoint: "bottom_mark" 0 -40 mark 0
+AnchorPoint: "bottom_mark" 0 -359 basemark 0
+LayerCount: 2
+Fore
+SplineSet
+-16 -239 m 1
+ -14 -221 -14 -202 -14 -184 c 0
+ -14 -137 -19 -90 -29 -38 c 1
+ 16 0 l 1
+ 26 -56 30 -103 30 -147 c 0
+ 30 -179 28 -209 23 -239 c 1
+ -16 -239 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni0657
+Encoding: 1623 1623 195
+Width: 0
+GlyphClass: 4
+Flags: HW
+AnchorPoint: "top_lig" 0 -120 mark 0
+AnchorPoint: "top" 0 -120 mark 0
+AnchorPoint: "top_mark" 0 40 mark 0
+AnchorPoint: "top_mark" 0 359 basemark 0
+LayerCount: 2
+Fore
+Refer: 188 1615 N -1 0 0 -1 0 239 2
+EndChar
+
+StartChar: uni066C
+Encoding: 1644 1644 196
+Width: 208
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+89 89 m 0
+ 76 89 67 81 67 69 c 0
+ 67 59 74 51 82 51 c 0
+ 86 51 90 53 94 56 c 1
+ 100 30 l 1
+ 116 34 123 40 123 50 c 0
+ 123 67 104 89 89 89 c 0
+108 108 m 0
+ 142 108 158 89 158 50 c 0
+ 158 23 127 -18 88 -41 c 1
+ 69 -17 l 1
+ 78 -13 84 -9 92 0 c 1
+ 67 7 50 30 50 56 c 0
+ 50 86 74 108 108 108 c 0
+EndSplineSet
+EndChar
+
+StartChar: uni0670
+Encoding: 1648 1648 197
+Width: 0
+GlyphClass: 4
+Flags: HW
+AnchorPoint: "top_lig" 0 -120 mark 0
+AnchorPoint: "top" 0 -120 mark 0
+AnchorPoint: "top_mark" 0 40 mark 0
+AnchorPoint: "top_mark" 0 359 basemark 0
+LayerCount: 2
+Fore
+Refer: 194 1622 N 1 0 0 1 0 239 2
+EndChar
+
+StartChar: uniE00E
+Encoding: 57358 57358 198
+Width: 0
+GlyphClass: 4
+Flags: HW
+HStem: 0 168 210 174
+VStem: -96 192
+AnchorPoint: "top_lig" 0 -120 mark 0
+AnchorPoint: "top" 0 -120 mark 0
+AnchorPoint: "top_mark" 0 40 mark 0
+AnchorPoint: "top_mark" 0 504 basemark 0
+LayerCount: 2
+Fore
+Refer: 187 1614 N 1 0 0 1 0 210 2
+Refer: 190 1617 N 1 0 0 1 0 0 2
+Ligature2: "'ccmp' Glyph Composition/Decomposition in Arabic lookup 0 subtable" uni064E uni0651
+Ligature2: "'ccmp' Glyph Composition/Decomposition in Arabic lookup 0 subtable" uni0651 uni064E
+EndChar
+
+StartChar: uniE00F
+Encoding: 57359 57359 199
+Width: 0
+GlyphClass: 4
+Flags: HW
+HStem: 0 168 210 21G<-24.6154 14> 281 51<-49.8818 -8.82399>
+VStem: -62 12<333.528 368.467> 19 43<261.885 364.633>
+AnchorPoint: "top_lig" 0 -120 mark 0
+AnchorPoint: "top" 0 -120 mark 0
+AnchorPoint: "top_mark" 0 40 mark 0
+AnchorPoint: "top_mark" 0 569 basemark 0
+LayerCount: 2
+Fore
+Refer: 188 1615 N 1 0 0 1 0 210 2
+Refer: 190 1617 N 1 0 0 1 0 0 2
+Ligature2: "'ccmp' Glyph Composition/Decomposition in Arabic lookup 0 subtable" uni064F uni0651
+Ligature2: "'ccmp' Glyph Composition/Decomposition in Arabic lookup 0 subtable" uni0651 uni064F
+EndChar
+
+StartChar: uniE010
+Encoding: 57360 57360 200
+Width: 0
+GlyphClass: 4
+Flags: HW
+HStem: 0 168 210 174
+VStem: -138 276
+AnchorPoint: "top_lig" 0 -120 mark 0
+AnchorPoint: "top" 0 -120 mark 0
+AnchorPoint: "top_mark" 0 40 mark 0
+AnchorPoint: "top_mark" 0 504 basemark 0
+LayerCount: 2
+Fore
+Refer: 184 1611 N 1 0 0 1 0 210 2
+Refer: 190 1617 N 1 0 0 1 0 0 2
+Ligature2: "'ccmp' Glyph Composition/Decomposition in Arabic lookup 0 subtable" uni064B uni0651
+Ligature2: "'ccmp' Glyph Composition/Decomposition in Arabic lookup 0 subtable" uni0651 uni064B
+EndChar
+
+StartChar: uniE011
+Encoding: 57361 57361 201
+Width: 0
+GlyphClass: 4
+Flags: HW
+AnchorPoint: "top_lig" 0 -120 mark 0
+AnchorPoint: "top" 0 -120 mark 0
+AnchorPoint: "top_mark" 0 40 mark 0
+AnchorPoint: "top_mark" 0 569 basemark 0
+LayerCount: 2
+Fore
+Refer: 185 1612 N 1 0 0 1 0 210 2
+Refer: 190 1617 N 1 0 0 1 0 0 2
+Ligature2: "'ccmp' Glyph Composition/Decomposition in Arabic lookup 0 subtable" uni064C uni0651
+Ligature2: "'ccmp' Glyph Composition/Decomposition in Arabic lookup 0 subtable" uni0651 uni064C
+EndChar
+
+StartChar: uniE012
+Encoding: 57362 57362 202
+Width: 0
+GlyphClass: 4
+Flags: HW
+HStem: 0 174 216 168
+VStem: -96 192
+AnchorPoint: "top_lig" 0 -120 mark 0
+AnchorPoint: "top" 0 -120 mark 0
+AnchorPoint: "top_mark" 0 40 mark 0
+AnchorPoint: "top_mark" 0 504 basemark 0
+LayerCount: 2
+Fore
+Refer: 187 1614 N 1 0 0 1 0 0 2
+Refer: 190 1617 N 1 0 0 1 0 216 2
+Ligature2: "'ccmp' Glyph Composition/Decomposition in Arabic lookup 0 subtable" uni0650 uni0651
+Ligature2: "'ccmp' Glyph Composition/Decomposition in Arabic lookup 0 subtable" uni0651 uni0650
+EndChar
+
+StartChar: uniE013
+Encoding: 57363 57363 203
+Width: 0
+GlyphClass: 4
+Flags: HW
+HStem: 0 174 216 168
+VStem: -138 276
+AnchorPoint: "top_lig" 0 -120 mark 0
+AnchorPoint: "top" 0 -120 mark 0
+AnchorPoint: "top_mark" 0 40 mark 0
+AnchorPoint: "top_mark" 0 504 basemark 0
+LayerCount: 2
+Fore
+Refer: 184 1611 N 1 0 0 1 0 0 2
+Refer: 190 1617 N 1 0 0 1 0 216 2
+Ligature2: "'ccmp' Glyph Composition/Decomposition in Arabic lookup 0 subtable" uni064D uni0651
+Ligature2: "'ccmp' Glyph Composition/Decomposition in Arabic lookup 0 subtable" uni0651 uni064D
+EndChar
+
+StartChar: uniE014
+Encoding: 57364 57364 204
+Width: 0
+GlyphClass: 4
+Flags: HW
+HStem: 0 21G<-82.3846 -34.5> 181 51<-53.6436 6.30392> 275 174
+VStem: -138 276 -107 40<95.0914 168.173> -9 31<159 216>
+AnchorPoint: "top_lig" 0 -120 mark 0
+AnchorPoint: "top" 0 -120 mark 0
+AnchorPoint: "top_mark" 0 40 mark 0
+AnchorPoint: "top_mark" 0 569 basemark 0
+LayerCount: 2
+Fore
+Refer: 184 1611 N 1 0 0 1 0 275 2
+Refer: 167 1620 N 1 0 0 1 0 0 2
+Ligature2: "'ccmp' Glyph Composition/Decomposition in Arabic lookup 0 subtable" uni064B uni0654
+Ligature2: "'ccmp' Glyph Composition/Decomposition in Arabic lookup 0 subtable" uni0654 uni064B
+EndChar
+
+StartChar: uniE015
+Encoding: 57365 57365 205
+Width: 0
+GlyphClass: 4
+Flags: HW
+AnchorPoint: "top_lig" 0 -120 mark 0
+AnchorPoint: "top" 0 -120 mark 0
+AnchorPoint: "top_mark" 0 40 mark 0
+AnchorPoint: "top_mark" 0 569 basemark 0
+LayerCount: 2
+Fore
+Refer: 187 1614 N 1 0 0 1 0 275 2
+Refer: 167 1620 N 1 0 0 1 0 0 2
+Ligature2: "'ccmp' Glyph Composition/Decomposition in Arabic lookup 0 subtable" uni064E uni0654
+Ligature2: "'ccmp' Glyph Composition/Decomposition in Arabic lookup 0 subtable" uni0654 uni064E
+EndChar
+
+StartChar: uniE016
+Encoding: 57366 57366 206
+Width: 0
+GlyphClass: 4
+Flags: HW
+HStem: 0 21G<-82.3846 -34.5> 181 51<-53.6436 6.30392> 275 21G<-24.6154 14> 346 51<-49.8818 -8.82399>
+VStem: -107 40<95.0914 168.173> -62 12<398.528 433.467> -9 31<159 216> 19 43<326.885 429.633>
+AnchorPoint: "top_lig" 0 -120 mark 0
+AnchorPoint: "top" 0 -120 mark 0
+AnchorPoint: "top_mark" 0 40 mark 0
+AnchorPoint: "top_mark" 0 634 basemark 0
+LayerCount: 2
+Fore
+Refer: 188 1615 N 1 0 0 1 0 275 2
+Refer: 167 1620 N 1 0 0 1 0 0 2
+Ligature2: "'ccmp' Glyph Composition/Decomposition in Arabic lookup 0 subtable" uni064F uni0654
+Ligature2: "'ccmp' Glyph Composition/Decomposition in Arabic lookup 0 subtable" uni0654 uni064F
+EndChar
+
+StartChar: uniE017
+Encoding: 57367 57367 207
+Width: 0
+GlyphClass: 4
+Flags: HW
+HStem: 0 21G<-82.3846 -34.5> 181 51<-53.6436 6.30392> 275 45<-37.162 35.0731> 294 33<-72.4501 0.980705> 346 52<-26.8706 11.0511>
+VStem: -107 40<95.0914 168.173> -42 15<398.697 438.51> -9 31<159 216> 43 38<327.57 426.353>
+AnchorPoint: "top_lig" 0 -120 mark 0
+AnchorPoint: "top" 0 -120 mark 0
+AnchorPoint: "top_mark" 0 40 mark 0
+AnchorPoint: "top_mark" 0 634 basemark 0
+LayerCount: 2
+Fore
+Refer: 185 1612 N 1 0 0 1 0 275 2
+Refer: 167 1620 N 1 0 0 1 0 0 2
+Ligature2: "'ccmp' Glyph Composition/Decomposition in Arabic lookup 0 subtable" uni064C uni0654
+Ligature2: "'ccmp' Glyph Composition/Decomposition in Arabic lookup 0 subtable" uni0654 uni064C
+EndChar
+
+StartChar: uni066B
+Encoding: 1643 1643 208
+Width: 319
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+4 -211 m 1
+ 26 -133 168 108 204 136 c 1
+ 219 90 l 1
+ 170 43 97 -64 32 -228 c 1
+ 4 -211 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni060C
+Encoding: 1548 1548 209
+Width: 344
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+209 142 m 0
+ 225 142 237 118 237 89 c 0
+ 237 60 220 0 182 0 c 0
+ 121 0 110 81 110 119 c 0
+ 110 182 139 233 198 272 c 1
+ 217 246 l 1
+ 176 210 153 164 153 120 c 0
+ 153 91 172 52 201 52 c 0
+ 216 52 225 68 225 79 c 0
+ 225 87 220 91 212 91 c 0
+ 204 91 198 89 186 81 c 1
+ 167 127 l 1
+ 178 135 198 142 209 142 c 0
+EndSplineSet
+EndChar
+
+StartChar: uni061B
+Encoding: 1563 1563 210
+Width: 360
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+178 143 m 0
+ 205 143 250 128 250 71 c 0
+ 250 11 180 6 179 6 c 0
+ 171 6 161 8 151 13 c 1
+ 153 12 155 12 157 12 c 0
+ 178 12 206 40 206 69 c 0
+ 206 94 190 119 166 119 c 0
+ 149 119 132 108 132 91 c 0
+ 132 81 138 72 149 72 c 0
+ 153 72 159 74 164 77 c 1
+ 177 39 l 2
+ 178 36 165 24 146 24 c 0
+ 114 24 110 62 110 77 c 0
+ 110 122 144 143 178 143 c 0
+EndSplineSet
+Refer: 209 1548 N 1 0 0 1 0 195 2
+EndChar
+
+StartChar: period
+Encoding: 46 46 211
+Width: 257
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+70 50 m 0
+ 70 82 97 108 129 108 c 0
+ 161 108 187 82 187 50 c 0
+ 187 18 161 -9 129 -9 c 0
+ 97 -9 70 18 70 50 c 0
+EndSplineSet
+EndChar
+
+StartChar: colon
+Encoding: 58 58 212
+Width: 257
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 211 46 N 1 0 0 1 0 202 2
+Refer: 211 46 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0660
+Encoding: 1632 1632 213
+Width: 317
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 26 1776 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0661
+Encoding: 1633 1633 214
+Width: 235
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 31 1777 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0662
+Encoding: 1634 1634 215
+Width: 354
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 32 1778 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0663
+Encoding: 1635 1635 216
+Width: 430
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 33 1779 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0667
+Encoding: 1639 1639 217
+Width: 422
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 37 1783 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0668
+Encoding: 1640 1640 218
+Width: 422
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 38 1784 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0669
+Encoding: 1641 1641 219
+Width: 310
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 39 1785 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniFEF5
+Encoding: 65269 65269 220
+Width: 397
+Flags: HW
+AnchorPoint: "top_lig" 267 697 baselig 0
+AnchorPoint: "top_lig" 36 913 baselig 1
+AnchorPoint: "bottom_lig" 267 0 baselig 0
+AnchorPoint: "bottom_lig" 73 0 baselig 1
+LayerCount: 2
+Fore
+Refer: 192 1619 N 1 0 0 1 36 741 2
+Refer: 179 65275 N 1 0 0 1 0 0 3
+Substitution2: "'fina' Terminal Forms in Arabic lookup 3 subtable" uniFEF6
+EndChar
+
+StartChar: uniFEF6
+Encoding: 65270 65270 221
+Width: 384
+Flags: HW
+AnchorPoint: "top_lig" 261 697 baselig 0
+AnchorPoint: "top_lig" 36 913 baselig 1
+AnchorPoint: "bottom_lig" 261 0 baselig 0
+AnchorPoint: "bottom_lig" 74 0 baselig 1
+LayerCount: 2
+Fore
+Refer: 192 1619 N 1 0 0 1 36 741 2
+Refer: 180 65276 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uniFEF7
+Encoding: 65271 65271 222
+Width: 397
+Flags: HW
+AnchorPoint: "top_lig" 267 697 baselig 0
+AnchorPoint: "top_lig" 32 843 baselig 1
+AnchorPoint: "bottom_lig" 267 0 baselig 0
+AnchorPoint: "bottom_lig" 73 0 baselig 1
+LayerCount: 2
+Fore
+Refer: 167 1620 N 1 0 0 1 32 691 2
+Refer: 179 65275 N 1 0 0 1 0 0 3
+Substitution2: "'fina' Terminal Forms in Arabic lookup 3 subtable" uniFEF8
+EndChar
+
+StartChar: uniFEF8
+Encoding: 65272 65272 223
+Width: 384
+Flags: HW
+AnchorPoint: "top_lig" 261 697 baselig 0
+AnchorPoint: "top_lig" 32 843 baselig 1
+AnchorPoint: "bottom_lig" 261 0 baselig 0
+AnchorPoint: "bottom_lig" 74 0 baselig 1
+LayerCount: 2
+Fore
+Refer: 167 1620 N 1 0 0 1 32 691 2
+Refer: 180 65276 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uniFEF9
+Encoding: 65273 65273 224
+Width: 397
+Flags: HW
+AnchorPoint: "top_lig" 267 697 baselig 0
+AnchorPoint: "top_lig" 73 697 baselig 1
+AnchorPoint: "bottom_lig" 267 0 baselig 0
+AnchorPoint: "bottom_lig" 114 -239 baselig 1
+LayerCount: 2
+Fore
+Refer: 167 1620 N 1 0 0 1 114 -319 2
+Refer: 179 65275 N 1 0 0 1 0 0 3
+Substitution2: "'fina' Terminal Forms in Arabic lookup 3 subtable" uniFEFA
+EndChar
+
+StartChar: uniFEFA
+Encoding: 65274 65274 225
+Width: 384
+Flags: HW
+AnchorPoint: "top_lig" 261 697 baselig 0
+AnchorPoint: "top_lig" 74 697 baselig 1
+AnchorPoint: "bottom_lig" 261 0 baselig 0
+AnchorPoint: "bottom_lig" 114 -239 baselig 1
+LayerCount: 2
+Fore
+Refer: 167 1620 N 1 0 0 1 114 -319 2
+Refer: 180 65276 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni200C
+Encoding: 8204 8204 226
+Width: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: uni200D
+Encoding: 8205 8205 227
+Width: 0
+Flags: W
+LayerCount: 2
+EndChar
+EndChars
+EndSplineFont
